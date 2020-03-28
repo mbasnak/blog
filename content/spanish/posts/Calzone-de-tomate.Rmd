@@ -1,0 +1,79 @@
+---
+title: "Calzone de tomate y queso"
+date: "`r Sys.time()`"
+image: images/blog/calzone.jpg
+description: "lorem ipsum description is custom right now"
+tags: ["vegetariano"]
+---
+
+#Ingredientes
+**Para la masa**
+
+- 1 taza y 1/3 de harina 0000
+
+- 1/3 de taza + 2 cdas de agua
+
+- 1 cda de aceite de oliva
+
+- 1 poquito de sal
+
+- 1 cdita de levadura en polvo
+
+- 1 cdita de azúcar
+
+
+**Para el relleno**
+
+- 5 dientes de ajo
+
+- 1/2 cebolla
+
+- 2 tomates
+
+- 1 lata de salsa de tomate
+
+- 2 puñados de espinaca
+
+- 2 puñados de muzzarella rallada o cortada en pedacitos chicos
+
+- Sal c/n
+
+- Pimienta c/n
+
+- Orégano c/n
+
+- Aceite de oliva c/n
+
+#Preparación
+**Para la masa**
+
+- Mezclar la harina con la sal.
+
+- Activar la levadura mezclándola con un poquito de agua tibia y la cdita de azúcar.
+
+- Agregar el aceite y amasar.
+
+- Tapar y dejar levar al doble de tamaño
+
+
+**Para la salsa**
+
+- Picar la cebolla y 2 dientes de ajo chiquitos.
+
+- Rehogar en aceite de oliva por unos 5 min.
+
+- Agregar la salsa de tomate, sal, pimienta y orégano.
+
+- Dejar cocinar por unos 5 min más y apagar el fuego.
+
+**Armado**
+
+- Estirar la masa en forma de pizza.
+
+- Cubrir toda con salsa de tomate.
+
+- A una mitad, ponerle la espinaca, el tomate cortado en cubos, la muzzarella y 3 dientes de ajo picados chicos.
+
+- Cerrar la mitad sin relleno sobre la otra y repulgar.
+
+- Llevar a un horno medio por unos 20 min.

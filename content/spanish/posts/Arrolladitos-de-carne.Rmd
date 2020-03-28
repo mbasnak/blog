@@ -1,0 +1,61 @@
+---
+title: "Arrolladitos de carne"
+date: "`r Sys.time()`"
+image: images/blog/ArrolladitosCarne.jpg
+description: "lorem ipsum description is custom right now"
+---
+
+#Ingredientes
+
+- 500 gr de carne roja de tu elección (la que usarías para milanesa)
+
+- 1 cebolla
+
+- 1 morrón rojo asado ([ver tip de cómo asar morrones](/blog/como-asar-morrones/))
+
+- 50 cc de crema de leche
+
+- 3 cucharadas de maicena
+
+- 3 cucharadas de mozzarella rallada
+
+- 1 puñado de espinaca
+
+- 3 dientes de ajo
+
+- 4 champiñones
+
+- sal c/n
+
+- pimienta c/n
+
+- perejil c/n
+
+- aceite de oliva c/n
+
+- escarbadientes c/n
+
+
+#Preparación
+
+- Cortar la carne en churrasquitos finitos.
+
+- Condimentar un lado con sal, pimienta, perejil, y el ajo cortado chiquito.
+
+- Agregar un pedazo de morrón asado, un par de hojas de espinaca y un poquito de mozzarella.
+
+- Enrollar y cerrar con un par de escarbadientes.
+
+- En un plato mezclar la maicena con un poco de sal, pimienta y perejil.
+
+- Pasar los arrolladitos por la mezcla de maicena.
+
+- En una olla o sartén, calentar un poquito de aceite de oliva.
+
+- Agregar los arrolladitos y dorar de todos lados. Sacar del fuego y reservar.
+
+- En la misma olla, poner a dorar la cebolla picada chica.
+
+- Agregar los champiñones fileteados, la crema de leche, y volver a poner los arrolladitos.
+
+- Tapar y dejar cocinar por unos 20 minutos.

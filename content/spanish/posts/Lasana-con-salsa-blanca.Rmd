@@ -1,0 +1,60 @@
+---
+title: "Lasaña de espinaca con salsa blanca"
+date: "`r Sys.time()`"
+image: images/blog/LasanaEspinacaSalsaBlanca.png
+description: "this is meta description"
+
+---
+
+#Ingredientes:
+- 1 Cebolla
+
+- 1 Morrón rojo
+
+- 1/2 caldo de verdura
+
+- 280 gr pechuga de pollo (1 pechuga chica)
+
+- 280 gr de espinaca
+
+- 4 champiñones grandes
+
+- 70 gr queso azul
+
+- 30 gr manteca (1 cda)
+
+- 30 gr de harina (2 cdas)
+
+- 1/2 litro leche
+
+- 250 gr de fideos de lasaña
+
+- pimienta
+
+- nuez moscada
+
+- 1 chorrito de aceite de oliva
+
+- 6 cdas de queso rallado
+
+#Preparación:
+
+- Hervir el pollo en una ollita con agua y medio cubito de verdura por 35 minutos. Al cabo de ese tiempo, sacar la pechuga y deshacer con dos tenedores.
+
+- Mientras se cocina el pollo, cortar en cubitos la cebolla y el morrón. Rehogar en un poquito de aceite de oliva por 10 minutos.
+
+- Agregar los champiñones fileteados y la espinaca y cocinar por un par de minutos más.
+
+- Para la salsa blanca: En una olla o sartén, derretir la manteca. Agregar la harina y revolver hasta que se integre con la manteca derretida y forme una pasta (esta pasta se llama roux). Cocinar la pasta por 1 o 2 minutos. Agregar la leche y mezlcar constantemente, cuidando que no se formen grumos, y que se integre el roux con la leche. Cuando empiece a espesar, bajar el fuego y agregar sal, pimienta y nuez moscada. Luego de un par de minuto sacar del fuego.
+
+- Mezclar las verduras con la salsa blanca (reservar un poquito de salsa blanca por su cuenta), el queso azul cortado en pedacitos y 4 cucharadas de queso rallado.
+
+- Si les pasa como en mi casa, que uno come vegetariano y el otro come carne, separen esta preparación en 2, y a una de las dos le agregan el pollo.
+
+- Cocinar los fideos de lasaña de acuerdo a las instrucciones del paquete.
+
+- Para armar la lasaña: en una fuente para horno, alternar capas de la pasta y el relleno. Si estás usando los dos tipos de relleno, hacer la mitad del molde con uno y la otra mitad con el otro. En el molde que yo usé me alcanzó para poner 4 capas de pasta rodeando a 2 capas de relleno. Encima de la última capa, poner el poquito de salsa que reservaron previamente y un par de cucharadas de queso rallado.
+
+- Llevar a un horno precalentado. Si tienen opción de que su horno caliente más la parte de arriba usen esa y sino usen un horno fuerte.
+
+- Dejar en el horno hasta que el queso se gratine (alrededor de 10 minutos).

@@ -1,0 +1,54 @@
+---
+title: "Albóndigas veganas"
+date: "`r Sys.time()`"
+image: images/blog/albondigas-de-porotos.png
+description: "lorem ipsum description is custom right now"
+tags: ["vegano","vegetariano"]
+---
+
+Hace más o menos un año empecé a comer mucha menos carne. Tuve que adaptar mi dieta al casi vegetarianismo, y la principal cosa que cambié fue empezar a comer muchas más legumbres. No tuve problema en hacer eso porque me encantan, pero a Mati, mi pareja, agunas le cuestan. Los porotos negros eran de esos, no los soportaba. Hasta que conseguí hacer unas albóndigas con porotos y le parecieron riquísimas! No tienen gusto a carne, así que si eso es lo que estás buscando este es el post equivocado, pero son muy ricas! Normalmente las hago con un huevo pero esta vuelta me había quedado sin y me las tuve que ingeniar, así que quedaron veganas.
+
+
+#Ingredientes
+
+- 1 lata de porotos negros
+
+- 1 morrón
+
+- 1 cebolla
+
+- 4 dientes de ajo
+
+- 2/3 taza pan rallado
+
+- 1 huevo o 1 cda de semillas de lino + 3 cdas de agua
+
+- pimentón
+
+- ají molido
+
+- sal
+
+- pimienta
+
+- aceite de oliva
+
+# Preparación
+
+- Escurrir la lata de porotos negros y secar los porotos con papel absorbente. Este paso es muy clave!
+
+- Aplastar con tenedor o procesar grueso dejando algunos pedazos visibles.
+
+- Procesar bien el ajo, la cebolla y el morrón. Colar esta preparación para sacar el exceso de agua.
+
+- Mezclar los porotos con el procesado de cebolla. Agregar sal, pimienta, pimentón y ají molido.
+
+- Agregar un huevo, o un ‘huevo de semilla’ (para hacer el huevo de semilla: procesar 1 cda de semillas de lino con 3 cdas de agua hasta obtener una mezcla homogénea; dejar reposar 5 min hasta que espese). Este huevo se puede hacer con otro tipo de semillas también, lo más común es hacerlo con semillas de chia.
+
+- Agregar el pan rallado y unir todo bien.
+
+- Formar albóndigas.
+
+- En una sarten, calentar un chorrito de aceite de oliva.
+
+- Agregar las albóndigas y cocinar 3-4 min. Dar vuelta y cocinar el mismo tiempo del otro lado.

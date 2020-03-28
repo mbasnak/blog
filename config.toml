@@ -1,0 +1,189 @@
+######################## default configuration ####################
+baseURL = "http://example.org/"
+
+#DefaultContentLanguage = "es"
+
+
+#title = "Restaurant Theme By Themefisher"
+theme = "restaurant-hugo"
+summaryLength = "7"
+paginate = 6
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+[permalinks]
+  posts = "/blog/:filename/"
+[taxonomies]
+  tag = "tags"
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/slick.css"
+[[params.plugins.css]]
+URL = "css/font-awesome.min.css"
+[[params.plugins.css]]
+URL = "css/animate.min.css"
+[[params.plugins.css]]
+URL = "css/venobox.css"
+[[params.plugins.css]]
+URL = "css/main.css"
+[[params.plugins.css]]
+URL = "css/responsive.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/jquery.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/slick.min.js"
+[[params.plugins.js]]
+URL = "js/wow.min.js"
+[[params.plugins.js]]
+URL = "js/venobox.min.js"
+[[params.plugins.js]]
+URL = "js/main.js"
+
+############################## navigation ###############################
+
+[languages]
+
+
+#Spanish
+[languages.es]
+title = "La cocina de Mel"
+contentDir = "content/spanish"
+weight = 2
+
+[[languages.es.menu.main]]
+name = "Home"
+URL = "hero-area"
+weight = 1
+
+[[languages.es.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 2
+
+[[languages.es.menu.main]]
+name = "Acerca de"
+URL = "about-us"
+#URL = "about"
+weight = 4
+
+[[languages.es.menu.main]]
+name = "Contactame"
+URL = "contact-us"
+weight = 6
+
+[[languages.es.menu.main]]
+  name = "EN"
+  url = "en/"
+  weight = 7
+
+
+#English
+[languages.en]
+title = "Mel's kitchen"
+contentDir = "content/english"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Home"
+URL = "hero-area"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "About"
+URL = "about-us"
+#URL = "about" 
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Contact me"
+URL = "contact-us"
+weight = 6
+
+[[languages.en.menu.main]]
+name = "ES"
+url = "https://matiasandina.netlify.com/about/"
+weight = 7
+    
+
+    
+#################### default parameters ################################
+[params]
+logo = "images/logo2.png" #cambiar por imagen mia
+
+# meta data
+#author = "Themefisher"
+#description = "This is meta description"
+# google analitycs ID
+#google_analitycs_id = "Your ID"
+# copyright
+#copyright = "Copyright 2020 - All Rights Reserved. Design and Developed By Themefisher.com"
+
+
+
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+################################### Footer ############################
+[params.footer]
+enable = true
+#contactInfoTitle = "CONTACT <span>INFO</span> "
+#blogTitle = "ULTIMOS <span>BLOG POSTS</span>"
+#galleryTitle = "PHOTO <span>STREAM</span>"
+socialTitle = "SEGUIME <span>EN IG</span>"
+
+############################ footer contact item
+#[[params.footer.contactItem]]
+#title="Telephone"
+#icon = "fa fa-phone"
+#content = "016742 323313"
+
+#[[params.footer.contactItem]]
+#title="Address"
+#icon = "fa fa-map-marker"
+#content = "2046 Blue Spruce Lane Laurel Canada"
+
+#[[params.footer.contactItem]]
+#title="E mail"
+#icon = "fa fa-envelope"
+#content = "rest@gmail.com - rest@mail.ru"
+
+######################### footer gallery
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-3.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-4.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
+
+######################## Social Icon 
+
+[[params.footer.socialLink]]
+icon = "instagram"
+link = "https://www.instagram.com/mel_cocina/" #poner mi link cuando lo tenga

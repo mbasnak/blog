@@ -1,0 +1,62 @@
+---
+title: "Curry de garbanzos"
+date: "`r Sys.time()`"
+image: images/blog/CurryDeGarbanzos.png
+description: "lorem ipsum description is custom right now"
+tags: ["vegetariano"]
+---
+
+#Ingredientes
+
+- 1 lata de garbanzos
+
+- 1 lata de salsa de tomate
+
+- 200 gr de arvejas congeladas
+
+- 1/2 morrón rojo
+
+- 1/2 morrón verde
+
+- 1 cebolla
+
+- 3 dientes de ajo
+
+- gram masala
+
+- cúrcuma
+
+- comino
+
+- pimentón
+
+- sal
+
+- pimienta
+
+- 1 chorrito de crema
+
+- 1 chorrito de aceite de oliva
+
+
+#Preparación
+
+- Poner a calentar un chorrito de aceite de oliva en una olla.
+
+- Agregar los dientes de ajo picados chicos y dorar por un minuto.
+
+- Agregar la cebolla y el morrón picados chicos y dorar por unos 5 minutos.
+
+- Agregar una cucharadita de gran masala, una cucharadita de comino, una cucharadita de cúrcuma y media cucharadita de pimentón. Dorar por 2 minutos.
+
+- Colar los garbanzos y agregar a la olla.
+
+- Agregar la salsa de tomate, sal y pimienta. Tapar y cocinar por unos 15 minutos.
+
+- Agregar las arvejas congeladas y un chorrito de crema y cocinar por 10 minutos más.
+
+- Servir con arroz o quinoa.
+
+
+
+

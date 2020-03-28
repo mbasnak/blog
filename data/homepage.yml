@@ -1,0 +1,59 @@
+################## Hero area ##################
+heroArea:
+  enable : true
+  bgImage : "images/header.jpg" #necesito una imagen que sea ancha y baja para que esto funcione
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  #title : "FEATURED WORKS"
+  sliderItem:
+    - image : "images/blog/BerenjenasAjoSalsaDeSoja.png"
+    - image : "images/blog/HummusDeMorrones.png"
+    - image : "images/blog/CurryDeGarbanzos.png"
+    - image : "images/blog/SopaDeLentejas.png"
+    - image : "images/blog/albondigas-de-porotos.png"
+    - image : "images/blog/FideosConSalsaMixta.png"
+    - image : "images/blog/Garrapinadas.png"
+    - image : "images/blog/LasanaEspinacaSalsaBlanca.png"
+    - image : "images/blog/ArrolladitosCarne.jpg"    
+    - image : "images/blog/granola.png" 
+    - image : "images/blog/calzone.jpg" 
+    
+
+################# Blog ######################
+blog:
+  enable : true
+  title : "Recetas <span> y tips</span>"
+  bgImage : "images/macrobowl.jpg" 
+  overlay : true
+
+
+################ About #######################
+about:
+  enable : true
+  image : "images/cooker-img.png" #foto mia? o de mi cocina
+  title : "Acerca de  <span> este blog </span>"
+  description: "Mi bobe Perla era la mejor cocinera. Cuando ibas a su casa te llenaba de comida hasta que no podías más, y después te daba un tupper gigante para llevarte el resto a tu casa. Si llegaba temprano, mientras estaba cocinando, me daba algunas tareas chiquitas para hacer, como cortar el chocolate en pedacitos para una torta. Cuando tenía unos 12 años, mis viejos empezaron a hacer un curso una vez por semana y llegaban tarde a casa. Un día decidí no esperar a que llegaran y mi mamá se pusiera a hacer la cena. Decidí incursionar en la cocina y cocinar algo yo. Desde entonces, me convertí en una de las dos cocineras de cena en casa y mi amor por la cocina fue creciendo día a día. Para cuando terminé el secundario, mi amor por la cocina era tan grande que decidí anotarme a carrera de chef como hobbie. Ese año me enseñó muchísimas cosas valiosas que todavía recuerdo y uso. Hoy cumplo un sueño de hace rato, que es publicar mis recetas. Espero que las disfruten tanto como yo! " #poner descripcion de blog
+  image2 : "images/con-la-bobe.jpg"
+
+  
+
+################### Subscription ################
+#subscription:
+ # enable : true
+  #bgImage : "images/subscribe-bg.jpg"
+  #title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  #description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration 
+  #formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  #formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  #overlay : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "Contactame"
+  subtitle: "Mandame mail para pedirme cosas que te gustaria ver en el blog"
+  formAction : "https://formspree.io/xqklnyry" #contact form works with formspree.io

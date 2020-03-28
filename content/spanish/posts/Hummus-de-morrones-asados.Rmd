@@ -1,0 +1,37 @@
+---
+title: "Hummus de morrones asados"
+date: "`r Sys.time()`"
+image: images/blog/HummusDeMorrones.png
+description: "this is meta description"
+tags: ["vegano", "vegetariano"]
+---
+
+#Ingredientes
+
+- 1 lata de garbanzos
+
+- 1 morrón rojo asado
+
+- 1 y ½ dientes de ajo
+
+- 1/2 taza de aceite de oliva
+
+- 1 poquito de jugo de limón
+
+- sal
+
+- pimienta
+
+- pimentón
+
+#Preparación:
+
+- Asar el morrón [ver tips para asar morrones ](/blog/como-asar-morrones/).
+
+- Procesar todos los ingredientes hasta que quede cremoso.
+
+- Si quieren que quede más líquido le pueden agregar un chorrito chico de agua.
+
+- Para servir, agregar un chorrito de aceite de oliva y un poquito de pimentón.
+
+- Queda riquísimo untado en cualquier pan, con palitos de verduras varias (zanahoria, zuccini, morrón) o agregado como condimento a una ensalada.

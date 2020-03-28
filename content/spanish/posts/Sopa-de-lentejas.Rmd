@@ -1,0 +1,59 @@
+---
+title: "Sopa de lentejas"
+date: "`r Sys.time()`"
+image: images/blog/SopaDeLentejas.png
+description: "lorem ipsum description is custom right now"
+tags: ["vegetariano","vegano"]
+
+---
+
+#Ingredientes
+
+- 1 taza de lentejas rojas (o comunes en su defecto)
+
+- 1 lata de salsa de tomate
+
+- 1 cebolla
+
+- 3 dientes de ajo
+
+- 1 zanahoria
+
+- 1/2 cubito de caldo de verdura
+
+- 2 tazas de agua
+
+- 1/4 limón
+
+- aceite de oliva c/n
+
+- sal c/n
+
+- pimienta c/n
+
+- ají molido c/n
+
+- pimentón c/n
+
+- comino c/n
+
+
+#Preparación
+
+- Poner a calentar un chorrito de aceite de oliva en una olla.
+
+- Agregar el ajo y la cebolla picados chiquito. Dejar dorar por unos 3 minutos.
+
+- Agregar la zanahoria cortada en cubitos chicos, las lentejas y la salsa de tomate.
+
+- Agregar agua y el cubito de verdura.
+
+- Condimentar con sal, pimienta, ají molido, pimentón y comino a gusto (mejor poner de menos y corregir hacia el final).
+
+- Tapar y dejar cocinar a fuego medio-bajo por unos 20 min si usaron lentejas rojas y 30 min si usaron lentejas comunes.
+
+- Pasado ese tiempo, apagar el fuego.
+
+- Sacar la mitad o 2/3 de la sopa de la olla y procesarla hasta que quede hecha un puré o una crema.
+
+- Mezclar las dos mitades de sopa, corregir el condimento si hace falta, y agregar un chorrito de limón.

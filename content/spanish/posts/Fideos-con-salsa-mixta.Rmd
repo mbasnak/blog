@@ -1,0 +1,26 @@
+---
+title: "Fideos con salsa mixta"
+date: "`r Sys.time()`"
+image: images/blog/FideosConSalsaMixta.png
+description: "lorem ipsum description is custom right now"
+tags: ["vegetariano"]
+---
+
+#Ingredientes
+
+- los fideos que más les gusten
+- 1 lata de salsa de tomate
+- 1/2 cebolla colorada
+- 3 dientes de ajo
+- 1 tomate
+- 1/2 morrón
+- 50 cc de crema de leche
+- sal c/n
+- pimienta c/n
+- 2 hojas de laurel
+- mix de especias italiano
+- aceite de oliva c/n
+
+#Preparación
+
+

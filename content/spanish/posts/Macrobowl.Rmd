@@ -1,0 +1,21 @@
+---
+title: "Macrobowls: qué son y cómo hacerlos?"
+date: "`r Sys.time()`"
+image: images/blog/Macrobowl.png
+description: "lorem ipsum description is custom right now"
+---
+
+
+- Los macrobowls son bowls con ingredientes que intentan cubrir todas las necesidades nutritivas: tener proteína, hidratos, grasas, minerales y vitaminas.
+
+- Se pueden hacer infinitas combinaciones. Suelen ser muy coloridos y sabrosos.
+
+- Algunas ideas de hidratos son arroz, algún bulbo como papa o batata, quinoa...
+
+- Como proteína, se puede usar pollo, legumbres, tofu...
+
+- En cuanto a las grasas, se puede ponerle queso, palta, semillas, o agregarle grasas al condimento (aceite de oliva, mayonesa...).
+
+- Y rellenar con muchas verduras!
+
+- El condimento es importante también. Podés experimentar con varias vinagretas hasta encontrar una que te guste. Una que uso bastante para mis ensaladas y bowls es un diente de ajo picado, una cucharada de mostaza, una de mayonesa, dos de aceite de oliva, sal, pimienta y un chorrito de agua.

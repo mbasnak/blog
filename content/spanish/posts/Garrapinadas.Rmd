@@ -1,0 +1,30 @@
+---
+title: "Garrapiñadas"
+date: "`r Sys.time()`"
+image: images/blog/Garrapinadas.png
+description: "this is meta description"
+
+---
+
+#Ingredientes
+
+- 1/2 taza de almendras
+
+- 1/2 taza de azúcar
+
+- 1/4 taza de agua
+
+Esto rinde poco.
+Le podés agregar un poquito de esencia de vainilla
+
+#Preparación
+
+- Poner todos los ingredientes en una ollita.
+
+- Llevar al fuego y revolver hasta que se evapore el agua.
+
+- Sacar del fuego y seguir revolviendo hasta que cristalice el azúcar.
+
+- Si el azúcar cristalizado se ve blanco, volver al fuego un minuto hasta que se dore.
+
+- Sacar del fuego y estirar la mezcla sobre una placa de silicona o un pedazo de papel aluminio aceitado para que no se unan todas las garrapiñadas en una gran bola.
