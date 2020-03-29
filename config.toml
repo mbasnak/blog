@@ -64,7 +64,7 @@ URL = "js/main.js"
 
 [[languages.es.menu.main]]
 name = "Home"
-URL = "hero-area"
+URL = "home"
 weight = 1
 
 [[languages.es.menu.main]]
