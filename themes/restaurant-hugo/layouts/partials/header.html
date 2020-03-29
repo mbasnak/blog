@@ -33,7 +33,12 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right" id="top-nav">
 							{{ range $.Site.Menus.main }}
-							<li><a href="{{$.Site.BaseURL}}#{{ .URL }}">{{ .Name }}</a></li>
+							
+					<!--		<li><a href="{{$.Site.BaseURL}}#{{ .URL }}">{{ .Name }}</a></li> -->
+							<li><a href="{{$.Site.BaseURL | relLangURL}}#{{ .URL }}">{{ .Name }}</a></li>
+							
+							
+
 							{{ end }}
 						</ul>
 					</div><!-- /.navbar-collapse -->

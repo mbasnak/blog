@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegetariano on Mel&#39;s kitchen</title>
+    <link>/en/tags/vegetariano/</link>
+    <description>Recent content in vegetariano on Mel&#39;s kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Mar 2020 17:54:56 +0000</lastBuildDate>
+    
+	<atom:link href="/en/tags/vegetariano/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roasted pepper hummus</title>
+      <link>/en/blog/roasted-pepper-hummus/</link>
+      <pubDate>Sat, 28 Mar 2020 17:54:56 +0000</pubDate>
+      
+      <guid>/en/blog/roasted-pepper-hummus/</guid>
+      <description>This hummus is super tasty with bread, vegetable sticks (carrots, zuchini, peppers) or added as a seasoning to a salad.</description>
+    </item>
+    
+    <item>
+      <title>Sopa de lentejas</title>
+      <link>/en/blog/sopa-de-lentejas/</link>
+      <pubDate>Sat, 28 Mar 2020 16:45:40 +0000</pubDate>
+      
+      <guid>/en/blog/sopa-de-lentejas/</guid>
+      <description>Ingredientes1 taza de lentejas rojas (o comunes en su defecto)</description>
+    </item>
+    
+  </channel>
+</rss>

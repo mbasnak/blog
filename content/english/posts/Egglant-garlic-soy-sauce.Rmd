@@ -1,0 +1,37 @@
+---
+title: "Eggplants with garlic and soy sauce"
+date: "`r Sys.time()`"
+image: images/blog/BerenjenasAjoSalsaDeSoja.png
+tags: ["vegan","vegetarian"]
+---
+
+#Ingredients
+
+- 1 big eggplant
+
+- 6 garlic cloves
+
+- ¼ cup olive oil
+
+- 5 tbsp soy sauce
+
+- pepper to taste
+
+- ¼ red onion
+
+- 1 small piece of ginger
+
+#Directions
+
+- Finely chop the garlic, ginger and onion.
+
+- Mix with the eggplant cut in cubes.
+
+- Add pepper, olive oil and soy sauce and combine everything.
+
+- Marinate in the fridge for 2-3 hs.
+
+- Put the marinated eggplants in a pot, add a splash of water, cover with a lid and cook for about 20 min.
+
+- I chose to serve it with white rice, greens and toasted seeds.
+

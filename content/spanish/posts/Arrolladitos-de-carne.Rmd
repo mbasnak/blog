@@ -2,7 +2,6 @@
 title: "Arrolladitos de carne"
 date: "`r Sys.time()`"
 image: images/blog/ArrolladitosCarne.jpg
-description: "lorem ipsum description is custom right now"
 ---
 
 #Ingredientes

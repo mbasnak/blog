@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://example.org/"
 
-#DefaultContentLanguage = "es"
+DefaultContentLanguage = "es"
 
 
 #title = "Restaurant Theme By Themefisher"
@@ -54,9 +54,13 @@ URL = "js/main.js"
 
 #Spanish
 [languages.es]
-title = "La cocina de Mel"
-contentDir = "content/spanish"
-weight = 2
+  title = "La cocina de Mel"
+  contentDir = "content/spanish"
+  languageName = "spanish"
+  languageNameShort = ""
+  languageFlag = "ESP"
+  weight = 1
+
 
 [[languages.es.menu.main]]
 name = "Home"
@@ -71,7 +75,6 @@ weight = 2
 [[languages.es.menu.main]]
 name = "Acerca de"
 URL = "about-us"
-#URL = "about"
 weight = 4
 
 [[languages.es.menu.main]]
@@ -79,17 +82,21 @@ name = "Contactame"
 URL = "contact-us"
 weight = 6
 
-[[languages.es.menu.main]]
-  name = "EN"
-  url = "en/"
-  weight = 7
 
 
 #English
 [languages.en]
 title = "Mel's kitchen"
 contentDir = "content/english"
-weight = 1
+languageName = "English"
+languageNameShort = ""
+languageFlag = "ENG"
+weight = 2
+
+  [languages.en.params]
+    [languages.en.params.footer]
+      enable = true
+      socialTitle = "FOLLOW <span>ME</span>"
 
 [[languages.en.menu.main]]
 name = "Home"
@@ -104,7 +111,6 @@ weight = 2
 [[languages.en.menu.main]]
 name = "About"
 URL = "about-us"
-#URL = "about" 
 weight = 4
 
 [[languages.en.menu.main]]
@@ -112,10 +118,6 @@ name = "Contact me"
 URL = "contact-us"
 weight = 6
 
-[[languages.en.menu.main]]
-name = "ES"
-url = "https://matiasandina.netlify.com/about/"
-weight = 7
     
 
     
@@ -187,3 +189,8 @@ image = "images/slider/slider-img-2.jpg"
 [[params.footer.socialLink]]
 icon = "instagram"
 link = "https://www.instagram.com/mel_cocina/" #poner mi link cuando lo tenga
+
+[[languages.en.params.footer.socialLink]]
+icon = "instagram"
+link = "https://www.instagram.com/mel_cocina/" #poner mi link cuando lo tenga
+

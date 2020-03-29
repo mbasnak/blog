@@ -1,0 +1,56 @@
+---
+title: "Red lentil soup"
+date: "`r Sys.time()`"
+image: images/blog/SopaDeLentejas.png
+tags: ["vegetarian","vegan"]
+
+---
+
+#Ingredients
+
+- 1 cup of red lentils
+
+- 1 can of tomato sauce
+
+- 1 onion
+
+- 3 garlic cloves
+
+- 1 carrot
+
+- 1/2 vegetable bouillon cube
+
+- 2 cups of water
+
+- 1/4 lemon
+
+- olive oil to taste
+
+- salt to taste
+
+- pepper to taste
+
+- red pepper flakes to taste
+
+- paprika to taste
+
+- cumin to taste
+
+
+#Directions
+
+- Heat some olive oil in a pot.
+
+- Add the finely chopped garlic and onion. Saute for about 3 min.
+
+- Add the carrot chopped in small cubes, the lentils and the tomato sauce.
+
+- Add water and the bouillon cube.
+
+- Season with salt, pepper, red pepper flakes, paprika and cumin to taste.
+
+- Cover and cook in a medium-low heat for about 20 min.
+
+- Take half or 2/3 of the soup and blend until it's smooth.
+
+- Mix both halfs of soup, adjust the seasoning and add some lemon juice.

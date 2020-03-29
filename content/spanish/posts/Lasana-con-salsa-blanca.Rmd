@@ -2,11 +2,14 @@
 title: "Lasaña de espinaca con salsa blanca"
 date: "`r Sys.time()`"
 image: images/blog/LasanaEspinacaSalsaBlanca.png
-description: "this is meta description"
 
 ---
 
+Yo suelo comer vegetariano pero Mati no tanto. Esta es una receta muy buena para adaptar tanto a vegetarianos como a carnívoros. Hice la mitad con pollo y la mitad sin!
+
+
 #Ingredientes:
+
 - 1 Cebolla
 
 - 1 Morrón rojo

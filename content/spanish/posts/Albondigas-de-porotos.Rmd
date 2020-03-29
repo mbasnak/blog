@@ -2,7 +2,6 @@
 title: "Albóndigas veganas"
 date: "`r Sys.time()`"
 image: images/blog/albondigas-de-porotos.png
-description: "lorem ipsum description is custom right now"
 tags: ["vegano","vegetariano"]
 ---
 

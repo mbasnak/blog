@@ -3,147 +3,173 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/blog/curry-de-garbanzos/</loc>
-    <lastmod>2020-03-28T10:06:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/</loc>
-    <lastmod>2020-03-28T10:06:35+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-03-28T16:44:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
   </url>
   
   <url>
-    <loc>/es/posts/</loc>
-    <lastmod>2020-03-28T10:06:35+00:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2020-03-28T16:44:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/blog/sopa-de-lentejas/</loc>
+    <lastmod>2020-03-28T16:44:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/sopa-de-lentejas/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/posts/"
+                href="/blog/sopa-de-lentejas/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2020-03-28T10:06:35+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-28T16:44:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
   </url>
   
   <url>
-    <loc>/es/tags/vegetariano/</loc>
-    <lastmod>2020-03-28T10:06:35+00:00</lastmod>
+    <loc>/tags/vegano/</loc>
+    <lastmod>2020-03-28T16:44:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/vegetariano/"
+                href="/en/tags/vegano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/vegetariano/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/blog/arrolladitos-de-carne/</loc>
-    <lastmod>2020-03-28T10:06:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/blog/albondigas-de-porotos/</loc>
-    <lastmod>2020-03-28T10:06:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/tags/vegano/</loc>
-    <lastmod>2020-03-28T10:06:33+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/tags/vegano/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/vegetariano/</loc>
+    <lastmod>2020-03-28T16:44:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/vegetariano/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/vegano/"
+                href="/tags/vegetariano/"
                 />
   </url>
   
   <url>
-    <loc>/es/blog/calzone-de-tomate/</loc>
-    <lastmod>2020-03-26T17:54:36+00:00</lastmod>
+    <loc>/blog/lasana-con-salsa-blanca/</loc>
+    <lastmod>2020-03-28T16:42:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/blog/hummus-de-morrones-asados/</loc>
-    <lastmod>2020-03-25T18:02:31+00:00</lastmod>
+    <loc>/blog/hummus-de-morrones-asados/</loc>
+    <lastmod>2020-03-28T16:40:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/blog/garrapinadas/</loc>
-    <lastmod>2020-03-25T17:55:40+00:00</lastmod>
+    <loc>/blog/granola/</loc>
+    <lastmod>2020-03-28T16:39:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/granola/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/granola/"
+                />
   </url>
   
   <url>
-    <loc>/es/blog/lasana-con-salsa-blanca/</loc>
-    <lastmod>2020-03-25T17:53:16+00:00</lastmod>
+    <loc>/blog/garrapinadas/</loc>
+    <lastmod>2020-03-28T16:37:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/blog/macrobowl/</loc>
+    <loc>/blog/fideos-con-salsa-mixta/</loc>
+    <lastmod>2020-03-28T16:36:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/curry-de-garbanzos/</loc>
+    <lastmod>2020-03-28T16:33:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/como-asar-morrones/</loc>
+    <lastmod>2020-03-28T16:33:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/calzone-de-tomate/</loc>
+    <lastmod>2020-03-28T16:32:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/berenjenas-con-ajo-y-salsa-de-soja/</loc>
+    <lastmod>2020-03-28T16:32:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/arrolladitos-de-carne/</loc>
+    <lastmod>2020-03-28T16:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/albondigas-de-porotos/</loc>
+    <lastmod>2020-03-28T16:31:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/macrobowl/</loc>
     <lastmod>2020-03-25T17:35:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/blog/granola/</loc>
-    <lastmod>2020-03-25T17:29:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/blog/sopa-de-lentejas/</loc>
-    <lastmod>2020-03-25T17:26:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/blog/fideos-con-salsa-mixta/</loc>
-    <lastmod>2020-03-25T17:03:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/blog/como-asar-morrones/</loc>
-    <lastmod>2020-03-25T16:56:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/blog/berenjenas-con-ajo-y-salsa-de-soja/</loc>
-    <lastmod>2020-03-25T16:54:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/macrobowl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/macrobowl/"
+                />
   </url>
   
 </urlset>

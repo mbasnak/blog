@@ -2,7 +2,6 @@
 title: "Curry de garbanzos"
 date: "`r Sys.time()`"
 image: images/blog/CurryDeGarbanzos.png
-description: "lorem ipsum description is custom right now"
 tags: ["vegetariano"]
 ---
 

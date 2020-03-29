@@ -2,9 +2,9 @@
 title: "Garrapiñadas"
 date: "`r Sys.time()`"
 image: images/blog/Garrapinadas.png
-description: "this is meta description"
-
 ---
+
+Estas cantidades son para poquitas garrapiñadas, para tener de snack un par de días. Si querés hacer para que dure más o para muchas personas, podés triplicar las cantidades. Podés hacer esto con cualquier fruto seco y queda genial.
 
 #Ingredientes
 
@@ -14,8 +14,7 @@ description: "this is meta description"
 
 - 1/4 taza de agua
 
-Esto rinde poco.
-Le podés agregar un poquito de esencia de vainilla
+Si querés, le podés agregar un poquito de esencia de vainilla
 
 #Preparación
 

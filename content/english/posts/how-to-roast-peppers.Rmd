@@ -1,0 +1,21 @@
+---
+title: "How to roast peppers?"
+date: "`r Sys.time()`"
+image: images/blog/MorronAsado.png
+---
+
+- This technique to roast peppers is super easy!
+
+- You only need a pepper and a stove (it has to be a gas stove).
+
+- Turn on the stove and place the pepper on the flame.
+
+- Every couple minutes, rotate it.
+
+- The skin will turn black (like in the picture).
+
+- It looks burned but it's ok like this!
+
+- Once every side gets black, remove from the stove and rinse with cold water, rubbing it to remove the skin.
+
+- That's it! Roasted pepper ready to enjoy.

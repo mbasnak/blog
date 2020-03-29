@@ -1,0 +1,38 @@
+---
+title: "Granola"
+date: "`r Sys.time()`"
+image: images/blog/granola.png
+---
+
+I had a hard time finding a comercial granola that I liked. I usually find them too sweet, not sweet enough, or I think that they don't have enough nuts. So I decided to make my own, and I always have it at home for breakfast. It's really tasty on its own, or with yogurt, milk and fruits.
+
+#Ingredients
+
+- 4 cups of oats
+
+- 1 and 1/2 cups of nuts (I used almonds and walnuts)
+
+- 1 handful of dried fruit (I used dried cranberries)
+
+- 1/3 cup of honey
+
+- 1 splash of neutral vegetable oil
+
+
+#Directions
+
+- Pre-heat the oven at 350 F.
+
+- Chop the nuts
+
+- Combine every ingredient except for the dried fruit. If the honey is solid, melt in the microwave for a few seconds before adding.
+
+- Distribute the mix in the biggest oven dish you have.
+
+- Cook in the oven for about 10-12 min.
+
+- Remove from the over, mix, and cook again for 10-12 min.
+
+- Remove it from the oven and let it dry.
+
+- Add the dry fruit.

@@ -1,0 +1,61 @@
+---
+title: "Chickpea curry"
+date: "`r Sys.time()`"
+image: images/blog/CurryDeGarbanzos.png
+tags: ["vegetarian"]
+---
+
+#Ingredients
+
+- 1 chickpea can
+
+- 1 can of tomato sauce
+
+- 200 gr of frozen sweet peas
+
+- 1/2 red pepper
+
+- 1/2 green pepper
+
+- 1 onion
+
+- 3 garlic cloves
+
+- 1 tsp garam masala
+
+- 1 tsp turmeric
+
+- 1 tsp cumin
+
+- 1/2 tsp paprika
+
+- salt to taste
+
+- pepper to taste
+
+- heavy cream to taste
+
+- olive oil to taste
+
+
+#Directions
+
+- Heat olive oil in a pot.
+
+- Add the minced garic cloves and saute for a minute.
+
+- Add the chopped onion and peppers and cook for about 5 min.
+
+- Add the garam masala, turmeric, cumin, and paprika. Cook for 2 minutes.
+
+- Strain the chickpeas and add to the pot.
+
+- Add the tomato sauce, salt and pepper. Cover and cook for about 15 min.
+
+- Add the frozen peas and a splash of cream and cook for 10 more min.
+
+- Serve with rice or quinoa.
+
+
+
+

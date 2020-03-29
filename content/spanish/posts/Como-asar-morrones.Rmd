@@ -2,14 +2,20 @@
 title: "Cómo asar morrones?"
 date: "`r Sys.time()`"
 image: images/blog/MorronAsado.png
-description: "lorem ipsum description is custom right now"
 ---
 
 - Esta técnica para asar morrones es súper fácil!
+
 - Sólo necesitás un morrón, y una hornalla.
+
 - Vas a prender la hornalla y apollar el morrón sobre la llama.
+
 - Cada par de minutos lo vas a ir dando vuelta.
+
 - La piel se va a ir poniendo negra (como en la foto).
+
 - Parece quemado, pero está bien así!
+
 - Cuando se haya puesto negro de todos lados, lo sacás de la hornalla y lo lavás con agua fría frotándolo para sacarle la piel.
+
 - Y ya está! Morrón asado listo para disfrutar.

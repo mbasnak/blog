@@ -1,0 +1,78 @@
+---
+title: "Calzone de tomate y queso"
+date: "`r Sys.time()`"
+image: images/blog/calzone.jpg
+tags: ["vegetarian"]
+---
+
+#Ingredients
+**For the dough**
+
+- 1 and 1/3 cups of all purpose flour
+
+- 1/3 cup + 2 tbsp water
+
+- 1 tbsp olive oil
+
+- salt to taste
+
+- 1 tsp dry yeast
+
+- 1 tsp sugar
+
+
+**For the stuffing**
+
+- 5 garlic cloves
+
+- 1/2 onion
+
+- 2 tomatoes
+
+- 1 can tomato sauce
+
+- 2 handfuls spinach
+
+- 2 handfuls grated mozzarella
+
+- salt to taste
+
+- pepper to taste
+
+- oregano to taste
+
+- olive oil to taste
+
+#Directions
+**For the dough**
+
+- Mix the flour and the salt.
+
+- Activate the yeast mixing it with some lukewarm water and the tsp of sugar.
+
+- Add the oil and knead until you obtain a soft and homogeneous dough.
+
+- Cover and let it duplicate its size.
+
+
+**For the sauce**
+
+- Finely chop the onion and 2 garlic cloves.
+
+- Saute in olive oil for about 5 min.
+
+- Add the tomato sauce, salt, pepper and oregano.
+
+- Cook for 5 extra min and turn off the stove.
+
+**Assembly**
+
+- Roll the dough in pizza shape.
+
+- Cover with the tomato sauce.
+
+- Cover one half of the disk with the spinach, the tomato cut in cubes, the mozzarella and 3 finely chopped garlic cloves.
+
+- Close the half without stuffing over the other half.
+
+- Cook at medium heat for about 20 min.

@@ -3,25 +3,25 @@
 	<div class="container">
 		<div class="row">
 			
-			<div class="col-md-4">
-				<div class="block wow fadeInLeft" data-wow-delay="700ms">
+	<!--		<div class="col-md-4">
+				<div class="block wow fadeInLeft" data-wow-delay="100ms">
 					<h3>{{ with .Site.Params.footer.blogTitle }} {{ . | safeHTML }} {{ end }}</h3>
 					<div class="blog">
 						<ul>
 							{{ range first 3 (where .Site.Pages "Type" "post") }}
-							{{ "<!-- post -->" | safeHTML }}
+							{{ "<!-- post --><!--" | safeHTML }}
 							<li>
 								<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
 							<!--	<p>{{ .PublishDate.Format "02 Jan 2006" }}</p> -->
-							</li>
+						<!--	</li>
 							{{ end }}
 						</ul>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!-- .col-md-4 close -->
 			<div class="col-md-4">
-				<div class="block wow fadeInLeft" data-wow-delay="1100ms">
+				<div class="block wow fadeInLeft" data-wow-delay="200ms">
 					
 					<div class="social-media-link">
 						<h3>{{ with .Site.Params.footer.socialTitle }} {{ . | safeHTML }} {{ end }}</h3>

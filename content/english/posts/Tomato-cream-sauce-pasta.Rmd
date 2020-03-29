@@ -1,0 +1,46 @@
+---
+title: "Pasta with tomato-cream sauce"
+date: "`r Sys.time()`"
+image: images/blog/FideosConSalsaMixta.png
+tags: ["vegetarian"]
+---
+
+This sauce is super easy, but will result in a much better pasta than a store-bought sauce! In 20 min you will be enjoying a great dish.
+
+#Ingredients
+
+- the pasta of your choosing
+
+- 1 can of tomato sauce
+
+- 1/2 red onion
+
+- 3 garlic cloves
+
+- 1 tomato
+
+- 1/2 pepper
+
+- 50 cc heavy cream
+
+- salt to taste
+
+- pepper to taste
+
+- 2 bay leaves
+
+- italian seasoning to taste
+
+- olive oil to taste
+
+#Directions
+
+- Chop the onion, garlic and pepper. Saute in olive oil for about 5 min.
+
+- Add the previously cubed tomato, the tomato sauce and the spices.
+
+- Cook for about 15 min. Add the cream and, if necessary, more seasoning.
+
+- Cook for 2-3 extra min.
+
+- Serve with your favorite pasta.

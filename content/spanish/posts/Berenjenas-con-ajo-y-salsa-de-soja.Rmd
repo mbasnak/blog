@@ -2,18 +2,23 @@
 title: "Berenjenas con ajo y salsa de soja"
 date: "`r Sys.time()`"
 image: images/blog/BerenjenasAjoSalsaDeSoja.png
-description: "lorem ipsum description is custom right now"
 tags: ["vegano","vegetariano"]
 ---
 
 #Ingredientes
 
 - 1 berenjena grande
+
 - 6 dientes de ajo
+
 - ¼ taza de aceite de oliva
-- 1/9? Taza de salsa de soja
+
+- 5 cdas salsa de soja
+
 - Pimienta
+
 - ¼ cebolla colorada
+
 - 1 pedacito de jengibre
 
 #Preparación

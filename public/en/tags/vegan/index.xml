@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegan on Mel&#39;s kitchen</title>
+    <link>/en/tags/vegan/</link>
+    <description>Recent content in vegan on Mel&#39;s kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Mar 2020 17:52:52 +0000</lastBuildDate>
+    
+	<atom:link href="/en/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vegan &#39;meatballs&#39;</title>
+      <link>/en/blog/vegan-meatballs/</link>
+      <pubDate>Sat, 28 Mar 2020 17:52:52 +0000</pubDate>
+      
+      <guid>/en/blog/vegan-meatballs/</guid>
+      <description>About a year ago, I started eating much less meat.</description>
+    </item>
+    
+    <item>
+      <title>Red lentil soup</title>
+      <link>/en/blog/red-lentil-soup/</link>
+      <pubDate>Sat, 28 Mar 2020 17:52:17 +0000</pubDate>
+      
+      <guid>/en/blog/red-lentil-soup/</guid>
+      <description>Ingredients1 cup of red lentils</description>
+    </item>
+    
+    <item>
+      <title>Eggplants with garlic and soy sauce</title>
+      <link>/en/blog/egglant-garlic-soy-sauce/</link>
+      <pubDate>Sat, 28 Mar 2020 16:58:31 +0000</pubDate>
+      
+      <guid>/en/blog/egglant-garlic-soy-sauce/</guid>
+      <description>Ingredients1 big eggplant
+6 garlic cloves</description>
+    </item>
+    
+  </channel>
+</rss>

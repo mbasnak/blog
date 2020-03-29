@@ -29,6 +29,11 @@ blog:
   bgImage : "images/macrobowl.jpg" 
   overlay : true
 
+blog_en:
+  enable : true
+  title : "Recipes <span> and tips</span>"
+  bgImage : "images/macrobowl.jpg" 
+  overlay : true
 
 ################ About #######################
 about:
@@ -38,6 +43,13 @@ about:
   description: "Mi bobe Perla era la mejor cocinera. Cuando ibas a su casa te llenaba de comida hasta que no podías más, y después te daba un tupper gigante para llevarte el resto a tu casa. Si llegaba temprano, mientras estaba cocinando, me daba algunas tareas chiquitas para hacer, como cortar el chocolate en pedacitos para una torta. Cuando tenía unos 12 años, mis viejos empezaron a hacer un curso una vez por semana y llegaban tarde a casa. Un día decidí no esperar a que llegaran y mi mamá se pusiera a hacer la cena. Decidí incursionar en la cocina y cocinar algo yo. Desde entonces, me convertí en una de las dos cocineras de cena en casa y mi amor por la cocina fue creciendo día a día. Para cuando terminé el secundario, mi amor por la cocina era tan grande que decidí anotarme a carrera de chef como hobbie. Ese año me enseñó muchísimas cosas valiosas que todavía recuerdo y uso. Hoy cumplo un sueño de hace rato, que es publicar mis recetas. Espero que las disfruten tanto como yo! " #poner descripcion de blog
   image2 : "images/con-la-bobe.jpg"
 
+
+about_en:
+  enable : true
+  image : "images/cooker-img.png" #foto mia? o de mi cocina
+  title : "About  <span> this blog </span>"
+  description: "My bubbe Perla was the best cook. When you went to her place, she stuffed you with food until you couldn’t take anymore, and then she gave you a giant container to take the leftovers home. If I got there early, she gave me some small tasks to do in the kitchen, like chopping the chocolate in small pieces for a cake. When I was about 12, my parents started taking a course one a week after work and they got home late. One day I decided not to wait until they got back for my mum to make dinner and started cooking something myself instead. From then on, I became one of the two official dinner makers at home, and my love for cooking grew daily. By the time I finished high school, my love for cooking was so big that I decided to start going to cooking school as a hobbie. That year taught me many valuable things that I still remember and use. Today I achieve a goal that I’ve had for a while, which is to publish my recipes. I hope you enjoy them as much as I do!"
+  image2 : "images/con-la-bobe.jpg"
   
 
 ################### Subscription ################
@@ -57,3 +69,12 @@ contact:
   title: "Contactame"
   subtitle: "Mandame mail para pedirme cosas que te gustaria ver en el blog"
   formAction : "https://formspree.io/xqklnyry" #contact form works with formspree.io
+
+
+contact_en:
+  enable : true
+  title: "Contact me"
+  subtitle: "Email me to ask for things you would like to see in the blog"
+  formAction : "https://formspree.io/xqklnyry" #contact form works with formspree.io
+
+

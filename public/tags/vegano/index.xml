@@ -1,22 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vegano on Mel&#39;s kitchen</title>
+    <title>vegano on La cocina de Mel</title>
     <link>/tags/vegano/</link>
-    <description>Recent content in vegano on Mel&#39;s kitchen</description>
+    <description>Recent content in vegano on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Mar 2020 10:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 16:44:05 +0000</lastBuildDate>
     
 	<atom:link href="/tags/vegano/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Vegan &#39;meatballs&#39;</title>
-      <link>/blog/vegan-meatballs/</link>
-      <pubDate>Sat, 28 Mar 2020 10:45:07 +0000</pubDate>
+      <title>Sopa de lentejas</title>
+      <link>/blog/sopa-de-lentejas/</link>
+      <pubDate>Sat, 28 Mar 2020 16:44:05 +0000</pubDate>
       
-      <guid>/blog/vegan-meatballs/</guid>
-      <description>About a year ago, I started eating much less meat.</description>
+      <guid>/blog/sopa-de-lentejas/</guid>
+      <description>Ingredientes1 taza de lentejas rojas (o comunes en su defecto)</description>
+    </item>
+    
+    <item>
+      <title>Hummus de morrones asados</title>
+      <link>/blog/hummus-de-morrones-asados/</link>
+      <pubDate>Sat, 28 Mar 2020 16:40:43 +0000</pubDate>
+      
+      <guid>/blog/hummus-de-morrones-asados/</guid>
+      <description>Este hummus queda riquísimo untado en cualquier pan, con palitos de verduras varias (zanahoria, zuccini, morrón) o agregado como condimento a una ensalada.</description>
+    </item>
+    
+    <item>
+      <title>Berenjenas con ajo y salsa de soja</title>
+      <link>/blog/berenjenas-con-ajo-y-salsa-de-soja/</link>
+      <pubDate>Sat, 28 Mar 2020 16:32:33 +0000</pubDate>
+      
+      <guid>/blog/berenjenas-con-ajo-y-salsa-de-soja/</guid>
+      <description>Ingredientes1 berenjena grande
+6 dientes de ajo</description>
+    </item>
+    
+    <item>
+      <title>Albóndigas veganas</title>
+      <link>/blog/albondigas-de-porotos/</link>
+      <pubDate>Sat, 28 Mar 2020 16:31:30 +0000</pubDate>
+      
+      <guid>/blog/albondigas-de-porotos/</guid>
+      <description>Hace más o menos un año empecé a comer mucha menos carne.</description>
     </item>
     
   </channel>

@@ -1,10 +1,14 @@
 {{ if .Site.Data.homepage.gallery.enable }}
+
+{{- partial "languageswitcher.html" . -}}
+
+
 {{ with .Site.Data.homepage.gallery }}
 <section id="slider">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<div class="block wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+			  	<div class="block wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 					<div class="title">
 						<h3>{{ .title | markdownify }}</h3>
 					</div>

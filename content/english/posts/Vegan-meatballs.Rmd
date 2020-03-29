@@ -2,8 +2,7 @@
 title: "Vegan 'meatballs'"
 date: "`r Sys.time()`"
 image: images/blog/albondigas-de-porotos.png
-description: "lorem ipsum description is custom right now"
-tags: ["vegano","vegetariano"]
+tags: ["vegan","vegetarian"]
 ---
 
 About a year ago, I started eating much less meat. I had to adapt my diet to near vegetarianism and the main thing I changed was that I started eating way more legumes. I didn't have any issues doing that, because I love them, but Mati, my partner, struggles to eat some of them. That was until I managed to make these black been 'meatballs', and he loved them! They don't taste like meat, so if thats what you're after, you're in the wrong post, but they are very tasty! I usually make them with an egg, but I had run out, so I had to get creative about it, and they became vegan 'meatballs'.
@@ -23,17 +22,17 @@ About a year ago, I started eating much less meat. I had to adapt my diet to nea
 
 - 1 egg or 1 tbsp of flax seeds + 3 tbsp water
 
-- paprika
+- paprika to taste
 
-- ají molido
+- red pepper flakes to taste
 
-- salt
+- salt to taste
 
-- pepper
+- pepper to taste
 
-- olive oil
+- olive oil to taste
 
-# Preparation
+#Directions
 
 - Drain the can of black beans and dry them with paper towels. This step is very important!
 

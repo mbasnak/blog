@@ -1,0 +1,36 @@
+---
+title: "Roasted pepper hummus"
+date: "`r Sys.time()`"
+image: images/blog/HummusDeMorrones.png
+tags: ["vegano", "vegetariano"]
+---
+
+This hummus is super tasty with bread, vegetable sticks (carrots, zuchini, peppers) or added as a seasoning to a salad. You can skip the pepper and make regular hummus, or replace with other roasted veggies if you prefer (it is great with carrots or beats!).
+
+#Ingredients
+
+- 1 can of chickpeas
+
+- 1 roasted red pepper
+
+- 1 and ½ garlic cloves
+
+- 1/2 cup olive oil
+
+- 1 splash lemon juice
+
+- salt to taste
+
+- pepper to taste
+
+- paprika to taste
+
+#Directions:
+
+- Roast the pepper [see here how to easily roast peppers](/en/blog/how-to-roast-peppers/)).
+
+- Process all the ingredients until it is creamy.
+
+- If you want it to be more liquid, you can add a splash of water.
+
+- To serve, add a little bit of olive oil and some paprika.

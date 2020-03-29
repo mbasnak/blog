@@ -2,9 +2,10 @@
 title: "Hummus de morrones asados"
 date: "`r Sys.time()`"
 image: images/blog/HummusDeMorrones.png
-description: "this is meta description"
 tags: ["vegano", "vegetariano"]
 ---
+
+Este hummus queda riquísimo untado en cualquier pan, con palitos de verduras varias (zanahoria, zuccini, morrón) o agregado como condimento a una ensalada. Podés obviar el morrón para asar hummus normal, o reemplazarlo por otras verduras asadas que te gusten más (con zanahoria o remolacha también queda muy bueno!).
 
 #Ingredientes
 
@@ -33,5 +34,3 @@ tags: ["vegano", "vegetariano"]
 - Si quieren que quede más líquido le pueden agregar un chorrito chico de agua.
 
 - Para servir, agregar un chorrito de aceite de oliva y un poquito de pimentón.
-
-- Queda riquísimo untado en cualquier pan, con palitos de verduras varias (zanahoria, zuccini, morrón) o agregado como condimento a una ensalada.

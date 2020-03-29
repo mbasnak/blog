@@ -3,82 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-28T10:45:07+00:00</lastmod>
+    <loc>/en/</loc>
+    <lastmod>2020-03-28T17:55:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/"
                 />
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-03-28T10:45:07+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/posts/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/posts/</loc>
+    <lastmod>2020-03-28T17:55:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-28T10:45:07+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/stuffed-meat-wraps/</loc>
+    <lastmod>2020-03-28T17:55:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/roasted-pepper-hummus/</loc>
+    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>/blog/vegan-meatballs/</loc>
-    <lastmod>2020-03-28T10:45:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vegano/</loc>
-    <lastmod>2020-03-28T10:45:07+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/vegano/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegano/</loc>
+    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="/tags/vegano/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/vegano/"
+                />
   </url>
   
   <url>
-    <loc>/tags/vegetariano/</loc>
-    <lastmod>2020-03-28T10:45:07+00:00</lastmod>
+    <loc>/en/tags/vegetariano/</loc>
+    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/vegetariano/"
+                href="/tags/vegetariano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/vegetariano/"
+                href="/en/tags/vegetariano/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegan/</loc>
+    <lastmod>2020-03-28T17:52:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/vegan-meatballs/</loc>
+    <lastmod>2020-03-28T17:52:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegetarian/</loc>
+    <lastmod>2020-03-28T17:52:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/red-lentil-soup/</loc>
+    <lastmod>2020-03-28T17:52:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/macrobowl/</loc>
+    <lastmod>2020-03-28T17:47:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/macrobowl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/macrobowl/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/spinach-bechamel-lasagna/</loc>
+    <lastmod>2020-03-28T17:43:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/granola/</loc>
+    <lastmod>2020-03-28T17:28:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/granola/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/granola/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/caramelized-nuts/</loc>
+    <lastmod>2020-03-28T17:23:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/tomato-cream-sauce-pasta/</loc>
+    <lastmod>2020-03-28T17:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/chickpea-curry/</loc>
+    <lastmod>2020-03-28T17:13:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/how-to-roast-peppers/</loc>
+    <lastmod>2020-03-28T17:08:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/tomato-calzone/</loc>
+    <lastmod>2020-03-28T17:05:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/egglant-garlic-soy-sauce/</loc>
+    <lastmod>2020-03-28T16:58:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/sopa-de-lentejas/</loc>
+    <lastmod>2020-03-28T16:45:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/sopa-de-lentejas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/sopa-de-lentejas/"
                 />
   </url>
   
