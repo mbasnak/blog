@@ -1,3 +1,4 @@
+
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
 <ul class="pagination">
@@ -7,10 +8,7 @@
     </li>
     {{ end }}
     <li class="page-item{{ if not $pag.HasPrev }} disabled{{ end }}">
-    <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}#blog"
-    {{ end }} 
-    class="page-link" aria-label="Previous">
-      <span aria-hidden="true">&laquo;</span></a>
+    <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}#blog"{{ end }} class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
     </li>
     {{ $ellipsed := false }}
     {{ $shouldEllipse := false }}
@@ -26,8 +24,7 @@
         {{ $ellipsed = true }}
     {{ end }}
     {{ if $showNumber }}
-    <li class="page-item{{ if eq . $pag }} active{{ end }}">
-      <a class="page-link" href="{{ .URL }}#blog">{{ .PageNumber }}</a></li>
+    <li class="page-item{{ if eq . $pag }} active{{ end }}"><a class="page-link" href="{{ .URL }}#blog">{{ .PageNumber }}</a></li>
     {{ else if $shouldEllipse }}
     <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
     {{ end }}

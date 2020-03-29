@@ -26,7 +26,8 @@
 					</ul>
 				</div>
 			</div><!-- .col-md-12 close -->
-			{{ template "_internal/pagination.html" . }}
+			<!--{{ template "_internal/pagination.html" . }}-->
+			{{- partial "custom_paginator.html" . -}}	
 		</div><!-- .row close -->
 	</div><!-- .containe close -->
 </section><!-- #blog close -->
