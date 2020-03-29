@@ -76,3 +76,11 @@ tags: ["vegetariano"]
 - Cerrar la mitad sin relleno sobre la otra y repulgar.
 
 - Llevar a un horno medio por unos 20 min.
+
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-U0bwbHKS7")
+
+```
