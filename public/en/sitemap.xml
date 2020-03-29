@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/blog/caramelized-nuts/</loc>
+    <lastmod>2020-03-29T16:11:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/en/</loc>
-    <lastmod>2020-03-29T14:39:08+00:00</lastmod>
+    <lastmod>2020-03-29T16:11:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-03-29T14:39:08+00:00</lastmod>
+    <lastmod>2020-03-29T16:11:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,8 +38,13 @@
   </url>
   
   <url>
+    <loc>/en/tags/sweet/</loc>
+    <lastmod>2020-03-29T16:11:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/en/tags/</loc>
-    <lastmod>2020-03-29T14:39:08+00:00</lastmod>
+    <lastmod>2020-03-29T16:11:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,58 +58,58 @@
   </url>
   
   <url>
-    <loc>/en/blog/tomato-calzone/</loc>
-    <lastmod>2020-03-29T14:39:08+00:00</lastmod>
+    <loc>/en/blog/how-to-roast-peppers/</loc>
+    <lastmod>2020-03-29T16:10:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/tip/</loc>
+    <lastmod>2020-03-29T16:10:38+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/tip/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/roasted-pepper-hummus/</loc>
+    <lastmod>2020-03-29T16:10:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegan/</loc>
+    <lastmod>2020-03-29T16:10:20+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/tags/vegetarian/</loc>
+    <lastmod>2020-03-29T16:10:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/florentines/</loc>
+    <lastmod>2020-03-29T16:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/how-to-peel-almonds/</loc>
+    <lastmod>2020-03-29T16:08:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/tomato-calzone/</loc>
     <lastmod>2020-03-29T14:39:08+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/blog/stuffed-meat-wraps/</loc>
     <lastmod>2020-03-28T17:55:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/blog/roasted-pepper-hummus/</loc>
-    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/vegano/</loc>
-    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/vegano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/vegano/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/vegetariano/</loc>
-    <lastmod>2020-03-28T17:54:56+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/vegetariano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/vegetariano/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/vegan/</loc>
-    <lastmod>2020-03-28T17:52:52+00:00</lastmod>
   </url>
   
   <url>
@@ -148,11 +158,6 @@
   </url>
   
   <url>
-    <loc>/en/blog/caramelized-nuts/</loc>
-    <lastmod>2020-03-28T17:23:18+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/en/blog/tomato-cream-sauce-pasta/</loc>
     <lastmod>2020-03-28T17:18:27+00:00</lastmod>
   </url>
@@ -160,11 +165,6 @@
   <url>
     <loc>/en/blog/chickpea-curry/</loc>
     <lastmod>2020-03-28T17:13:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/blog/how-to-roast-peppers/</loc>
-    <lastmod>2020-03-28T17:08:12+00:00</lastmod>
   </url>
   
   <url>
@@ -184,6 +184,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/blog/sopa-de-lentejas/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegano/</loc>
+    <lastmod>2020-03-28T16:45:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/vegano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/vegano/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegetariano/</loc>
+    <lastmod>2020-03-28T16:45:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/vegetariano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/vegetariano/"
                 />
   </url>
   

@@ -1,0 +1,54 @@
+---
+title: "Florentines (almost)"
+date: "`r Sys.time()`"
+image: images/blog/florentinas.png
+tags: ["sweet"]
+---
+
+Florentines are really tasty very thin italian cookies made with nuts and chocolate. I had nuts and chocolate and wanted to bake something but I didn't want to go with the original recipe because it implies spooning the mix super thin and baking several trays to get all the cookies. So I made a similar version but with thicker cookies, baked in a muffin tray instead, to make it simpler :) They are great to eat in the afternoon with some coffee or tea (but really bad if you're on a diet!)
+
+
+#Ingredients
+
+- 1 cup of peeled nuts (I used almonds, [check out how to peel them here](/en/blog/how-to-peel-almonds))
+
+- zest of 1 lemon
+
+- 2 tbsp all purpose flour
+
+- 1/4 cup sugar
+
+- 1/2 stick unsalted butter
+
+- 1 tbsp honey
+
+- a couple tbsp milk
+
+- a coupe tbsp chocolate chips or chocolate chopped in small pieces
+
+
+# Directions
+
+- Turn on the oven at 350 F.
+
+- Chop the almonds finely or process them (but don't turn them into dust).
+
+- Mix the almonds, flour and lemon zest.
+
+- In a small pot, heat the honey, sugar, butter and milk, stirring until the sugar melts. Continue to heat until it boils and turn off the stove.
+
+- Mix the two preparations and let cool for about 20 min, stirring occasionally.
+
+- Grease a muffin tray.
+
+- Add a tbsp of prep to each tin: this amount yielded 12 cookies for me.
+
+- Cook for about 15 min.
+
+- Cool.
+
+- Microwave some chocolate (not very long or it will burn!) or heat with a bain marie on the stove.
+
+- Add a little bit of chocolate on each cookie.
+
+

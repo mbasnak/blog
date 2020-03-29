@@ -1,0 +1,22 @@
+---
+title: "How to peel almonds"
+date: "`r Sys.time()`"
+image: images/blog/pelar-almendras.png
+tags: ["tip"]
+---
+
+You can buy already peeled almonds but they are usually much more expensive. If you have to use many if might be worth it, but if you need a reasonable amount and have a few extra min, a recommend peeling them at home.
+
+- Boil some water.
+
+- Once it's boiling, add the almonds and leave for 30 to 60 sec. They are going to start rising. Don't leave them longer because they might get soggy!
+
+- Turn off the heat and strain them.
+
+- Rinse with cold water and dry with paper towels or a clean cloth.
+
+- One by one, pince a little bit the skin and you will see it starts to come out.
+
+- When you're done peeling them, you can dry them again.
+
+- Ready to be used! You can bake [these delicious florentines](/en/blog/florentines).

@@ -2,6 +2,8 @@
 title: "Caramelized nuts"
 date: "`r Sys.time()`"
 image: images/blog/Garrapinadas.png
+tags: ["sweet"]
+
 ---
 
 These amounts are for few nuts, to serve as snack for a couple days. If you want to have them for longer or to feed several people, you can triple the amount. You can make this with any nut and it will be very tasty.

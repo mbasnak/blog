@@ -5,10 +5,28 @@
     <link>/</link>
     <description>Recent content on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Mar 2020 15:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 16:11:31 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Garrapiñadas</title>
+      <link>/blog/garrapinadas/</link>
+      <pubDate>Sun, 29 Mar 2020 16:11:31 +0000</pubDate>
+      
+      <guid>/blog/garrapinadas/</guid>
+      <description>Estas cantidades son para poquitas garrapiñadas, para tener de snack un par de días.</description>
+    </item>
+    
+    <item>
+      <title>Cómo asar morrones?</title>
+      <link>/blog/como-asar-morrones/</link>
+      <pubDate>Sun, 29 Mar 2020 16:11:15 +0000</pubDate>
+      
+      <guid>/blog/como-asar-morrones/</guid>
+      <description>Esta técnica para asar morrones es súper fácil!</description>
+    </item>
     
     <item>
       <title>Cómo pelar almendras</title>
@@ -65,15 +83,6 @@
     </item>
     
     <item>
-      <title>Garrapiñadas</title>
-      <link>/blog/garrapinadas/</link>
-      <pubDate>Sat, 28 Mar 2020 16:37:53 +0000</pubDate>
-      
-      <guid>/blog/garrapinadas/</guid>
-      <description>Estas cantidades son para poquitas garrapiñadas, para tener de snack un par de días.</description>
-    </item>
-    
-    <item>
       <title>Fideos con salsa mixta</title>
       <link>/blog/fideos-con-salsa-mixta/</link>
       <pubDate>Sat, 28 Mar 2020 16:36:31 +0000</pubDate>
@@ -89,15 +98,6 @@
       
       <guid>/blog/curry-de-garbanzos/</guid>
       <description>Ingredientes1 lata de garbanzos</description>
-    </item>
-    
-    <item>
-      <title>Cómo asar morrones?</title>
-      <link>/blog/como-asar-morrones/</link>
-      <pubDate>Sat, 28 Mar 2020 16:33:15 +0000</pubDate>
-      
-      <guid>/blog/como-asar-morrones/</guid>
-      <description>Esta técnica para asar morrones es súper fácil!</description>
     </item>
     
     <item>

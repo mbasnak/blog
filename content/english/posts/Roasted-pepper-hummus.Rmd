@@ -2,7 +2,7 @@
 title: "Roasted pepper hummus"
 date: "`r Sys.time()`"
 image: images/blog/HummusDeMorrones.png
-tags: ["vegano", "vegetariano"]
+tags: ["vegan", "vegetarian"]
 ---
 
 This hummus is super tasty with bread, vegetable sticks (carrots, zuchini, peppers) or added as a seasoning to a salad. You can skip the pepper and make regular hummus, or replace with other roasted veggies if you prefer (it is great with carrots or beats!).

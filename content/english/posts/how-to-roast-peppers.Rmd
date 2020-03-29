@@ -2,6 +2,8 @@
 title: "How to roast peppers?"
 date: "`r Sys.time()`"
 image: images/blog/MorronAsado.png
+tags: ["tip"]
+
 ---
 
 - This technique to roast peppers is super easy!

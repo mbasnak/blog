@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/como-pelar-almendras/</loc>
-    <lastmod>2020-03-29T15:45:48+00:00</lastmod>
+    <loc>/tags/dulce/</loc>
+    <lastmod>2020-03-29T16:11:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/garrapinadas/</loc>
+    <lastmod>2020-03-29T16:11:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-29T15:45:48+00:00</lastmod>
+    <lastmod>2020-03-29T16:11:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,7 +29,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-03-29T15:45:48+00:00</lastmod>
+    <lastmod>2020-03-29T16:11:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-03-29T15:45:48+00:00</lastmod>
+    <lastmod>2020-03-29T16:11:31+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,13 +58,28 @@
   </url>
   
   <url>
-    <loc>/tags/tip/</loc>
-    <lastmod>2020-03-29T15:45:48+00:00</lastmod>
+    <loc>/blog/como-asar-morrones/</loc>
+    <lastmod>2020-03-29T16:11:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/dulce/</loc>
-    <lastmod>2020-03-29T15:38:49+00:00</lastmod>
+    <loc>/tags/tip/</loc>
+    <lastmod>2020-03-29T16:11:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/tip/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/como-pelar-almendras/</loc>
+    <lastmod>2020-03-29T15:45:48+00:00</lastmod>
   </url>
   
   <url>
@@ -138,11 +158,6 @@
   </url>
   
   <url>
-    <loc>/blog/garrapinadas/</loc>
-    <lastmod>2020-03-28T16:37:53+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/fideos-con-salsa-mixta/</loc>
     <lastmod>2020-03-28T16:36:31+00:00</lastmod>
   </url>
@@ -150,11 +165,6 @@
   <url>
     <loc>/blog/curry-de-garbanzos/</loc>
     <lastmod>2020-03-28T16:33:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/como-asar-morrones/</loc>
-    <lastmod>2020-03-28T16:33:15+00:00</lastmod>
   </url>
   
   <url>
