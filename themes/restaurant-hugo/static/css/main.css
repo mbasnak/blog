@@ -4,6 +4,15 @@
   src: url(../fonts/ufonts.com_tw-cen-mt.ttf);
 }
 
+/* Add top spacer to blog posts*/
+
+.top-spacer{
+  padding-top : 100px;
+}
+
+
+
+
 /* Flags navigation */
 
 .flag{
