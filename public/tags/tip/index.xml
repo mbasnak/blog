@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tip on La cocina de Mel</title>
+    <link>/tags/tip/</link>
+    <description>Recent content in tip on La cocina de Mel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Mar 2020 15:45:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cómo pelar almendras</title>
+      <link>/blog/como-pelar-almendras/</link>
+      <pubDate>Sun, 29 Mar 2020 15:45:48 +0000</pubDate>
+      
+      <guid>/blog/como-pelar-almendras/</guid>
+      <description>Las almendras se pueden comprar peladas pero suelen ser mucho más caras.</description>
+    </item>
+    
+  </channel>
+</rss>

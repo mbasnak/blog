@@ -9,7 +9,7 @@ theme = "restaurant-hugo"
 summaryLength = "7"
 paginate = 6
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","UNPUBLISHED"]
 [permalinks]
   posts = "/blog/:filename/"
 [taxonomies]

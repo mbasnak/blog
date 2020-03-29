@@ -1,50 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>vegano on La cocina de Mel</title>
-    <link>/es/tags/vegano/</link>
-    <description>Recent content in vegano on La cocina de Mel</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Mar 2020 10:06:33 +0000</lastBuildDate>
-    
-	<atom:link href="/es/tags/vegano/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Albóndigas veganas</title>
-      <link>/es/blog/albondigas-de-porotos/</link>
-      <pubDate>Sat, 28 Mar 2020 10:06:33 +0000</pubDate>
-      
-      <guid>/es/blog/albondigas-de-porotos/</guid>
-      <description>Hace más o menos un año empecé a comer mucha menos carne.</description>
-    </item>
-    
-    <item>
-      <title>Hummus de morrones asados</title>
-      <link>/es/blog/hummus-de-morrones-asados/</link>
-      <pubDate>Wed, 25 Mar 2020 18:02:31 +0000</pubDate>
-      
-      <guid>/es/blog/hummus-de-morrones-asados/</guid>
-      <description>Ingredientes1 lata de garbanzos</description>
-    </item>
-    
-    <item>
-      <title>Sopa de lentejas</title>
-      <link>/es/blog/sopa-de-lentejas/</link>
-      <pubDate>Wed, 25 Mar 2020 17:26:51 +0000</pubDate>
-      
-      <guid>/es/blog/sopa-de-lentejas/</guid>
-      <description>Ingredientes1 taza de lentejas rojas (o comunes en su defecto)</description>
-    </item>
-    
-    <item>
-      <title>Berenjenas con ajo y salsa de soja</title>
-      <link>/es/blog/berenjenas-con-ajo-y-salsa-de-soja/</link>
-      <pubDate>Wed, 25 Mar 2020 16:54:21 +0000</pubDate>
-      
-      <guid>/es/blog/berenjenas-con-ajo-y-salsa-de-soja/</guid>
-      <description>Ingredientes1 berenjena grande6 dientes de ajo¼ taza de aceite de oliva1/9?</description>
-    </item>
-    
-  </channel>
-</rss>

@@ -1,0 +1,22 @@
+---
+title: "Cómo pelar almendras"
+date: "`r Sys.time()`"
+image: images/blog/pelar-almendras.png
+tags: ["tip"]
+---
+
+Las almendras se pueden comprar peladas pero suelen ser mucho más caras. Si tenés que usar muchas quizás valga la pena, pero si necesitás una cantidad razonable y tenés unos minutos de más, te recomiendo que las pelas en tu casa.
+
+- Poné agua a hervir en una ollita.
+
+- Cuando esté hirviendo, tirale las almendras y dejalas por entre 30 y 60 seg. Vas a ver que empiezan a subir. No las dejes más tiempo porque se ablandan!
+
+- Apagá el fuego y colá las almendras.
+
+- Lavalas con agua fría y secalas con paper absorbente o un repasador limpio.
+
+- De a una, pelliscá un poquito la piel en la punta y vas a ver que sale sola.
+
+- Cuando las termines de pelar las podés secar otra vez
+
+- Listas para usar! Podés hacer [estas riquísimas florentinas](/blog/florentinas).

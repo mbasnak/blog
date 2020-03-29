@@ -76,3 +76,12 @@ tags: ["vegetarian"]
 - Close the half without stuffing over the other half.
 
 - Cook at medium heat for about 20 min.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-U0bwbHKS7")
+
+```
+

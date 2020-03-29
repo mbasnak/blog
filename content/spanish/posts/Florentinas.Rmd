@@ -1,0 +1,54 @@
+---
+title: "Florentinas (casi)"
+date: "`r Sys.time()`"
+image: images/blog/florentinas.png
+tags: ["dulce"]
+---
+
+Las florentinas son unas galletas italianas de frutos secos y chocolate muy muy finitas, riquísimas. Tenía frutos secos y chocolate y ganas de cocinar algo, pero la verdad es que me daba fiaca hacer la receta original, que implica estirar cada galleta muuuy finita, y hacer muchas tandas de horneado! Así que hice una versión parecida, pero más gorditas y cocinadas en moldes de muffins, así sale más fácil =) Son buenísimas para comer a la tarde con un café o té (pero muy malas si estás a dieta!)
+
+
+#Ingredientes
+
+- 1 taza de frutos secos sin piel (yo usé almendras, [mirá acá cómo sacarles la piel](/blog/como-pelar-almendras))
+
+- ralladura de 1 limón
+
+- 2 cdas de harina 0000
+
+- 1/4 taza de azúcar
+
+- 50 gr de manteca
+
+- 1 cda de miel
+
+- 1 par de cdas de leche
+
+- 1 par de cdas de chips de chocolate, o chocolate cortado en pedacitos
+
+
+# Preparación
+
+- Prendé el horno a fuego medio.
+
+- Picá las almendras chiquito o procesalas (que quede en pedazos chicos y no tipo polvo).
+
+- Mezclá las almendras, harina y ralladura de limón.
+
+- En una ollita, calentá la miel, el azúcar, la manteca y la leche, revolviendo hasta que se disuelva el azúcar. Seguir calentando hasta que hierva y apagar el fuego.
+
+- Mezclar las dos preparaciones y dejar enfriar por unos 20 min, revolviendo cada tanto.
+
+- Ponele un poquito de aceite neutro a una fuente para muffins.
+
+- Agregá una cucharada de preparación en cada molde: a mí esta cantidad me alcanzó para 12 galletas.
+
+- Llevar al horno por unos 15 min
+
+- Dejar enfriar.
+
+- Calentar el chocolate en el microondas (no mucho tiempo que se quema!) o a baño maría.
+
+- Poner un poquito de chocolate sobre cada galleta.
+
+
