@@ -1,0 +1,81 @@
+---
+title: "Recetas de la bobe: jale o jalá (pan trenzado judío)"
+date: "`r Sys.time()`"
+image: images/blog/jale.jpg
+---
+
+Esta es la receta de mi bobe Perla para hacer jale. Probé varios jales en mi vida, incluyendo el que nos enseñaron a hacer en la clase de panadería en el instituto de cocina y sinceramente ninguno le llegaba a los talones al jale de la bobe! Es un poco más dulce que la mayoría. Creo que ese azúcar extra y el montón de levadura que lleva hacen que quede riquísimo. La receta es muy fácil de memorizar porque lleva 1 de cada cosa. Van a necesitar 1 vasito chico (de 200 cc aprox) porque van a medir varios ingredientes con eso. Disfruten!
+
+
+#Ingredientes
+
+- 1 kg harina 0000
+
+- 2 huevos
+
+- 1 vasito de azúcar
+
+- 1 vasito de aceite neutro
+
+- 1 vasito de agua
+
+- 75 gr de levadura fresca
+
+- semillas de amapola c/n
+
+- sal c/n
+
+
+#Preparación
+
+- Disolver la levadura en un par de cucharadas de agua tibia y agregar una cucharada de azúcar. Dejar unos minutos hasta que haga una espuma.
+
+- Mientras tanto, mezclar la harina, la sal, el azúcar, 1 huevo y el aceite.
+
+- Agregar la levadura espumada e ir mezclando.
+
+- Ir amasando y agregar el agua de a poco. Amasar hasta tener un bollo homogéneo. La masa tiene que quedar bien suave.
+
+- Dejar en un bowl tapado hasta que duplique su tamaño (una hora aprox).
+
+- Trenzar (ver abajo), pintar con el huevo restante y agregar las semillas por encima. Si no tenés pincel de cocina, podés pintarlas mojando una servilla en el huevo y pasando la servilleta suavecito por las trenzas.
+
+- Llevar a un horno medio precalentado hasta que estén bien doradas.
+
+- A disfrutar! Recién sacadas del horno, con manteca o queso son una delicia =)
+
+#Para trenzarlo
+Si quieren hacerlo redondo como el de la foto, se trenza así:
+
+(1) Corten la masa para un jale en 4 partes iguales y estiren cada parte en un rollito.
+
+```{r paso1, echo=FALSE, out.width = '200px', fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso1.jpg")
+```
+
+
+(2) Pongan dos rollitos horizontales en la mesada y agreguen uno vertical sobre el centro de los otros dos.
+
+```{r paso2, echo=FALSE, out.width = '200px', fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso2.jpg")
+```
+
+
+(3) Agreguen un tercer rollito horizontal sobre el vertical, entre los otros dos horizontales.
+
+```{r paso3, echo=FALSE, out.width = '200px',fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso3.jpg")
+```
+
+(4) Hagan una trenza a cada lado del rollito vertical, usando los tres rollitos horizontales.
+
+```{r paso4, echo=FALSE, out.width = '200px',fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso4.jpg")
+```
+
+(5) Doblen los bordes de las trenzas, y los extremos del rollito vertical hacia abajo. Esta receta rinda 4-5 panes grandes.
+
+```{r paso5, echo=FALSE, out.width = '200px', fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso5.jpg")
+```
+

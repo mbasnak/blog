@@ -1,0 +1,81 @@
+---
+title: "Recipes from my bubbe: challah (braided jewish bread)"
+date: "`r Sys.time()`"
+image: images/blog/jale.jpg
+---
+
+This is my bubbe Perla's challah recipe. I've tatsed many challahs in my life, including the one they taught us to make in the bread class in cooking school and no bread came close to being as tasty as this one! It is a little sweeter than most. I think than that extra sugar and the loads of yeast it has make it delicious. Enjoy!
+
+
+#Ingredients
+
+- 1 kg all purpose flour
+
+- 2 eggs
+
+- 250 gr sugar
+
+- 250 cc neutral vegetable oil
+
+- 250 cc water
+
+- 30 gr dry active yeast
+
+- poppy seeds to tase
+
+- salt to taste
+
+
+#Directions
+
+- Activate the yeast mixing with some lukewarm water and a tbsp sugar. Leave a few minutes until it foams.
+
+- In the meantime, mix the flour, salt, sugar, 1 egg and oil.
+
+- Add the foamy yeast and combine.
+
+- Knead, adding the water gradually until you obtain a big homogeneous roll. The dough must be very soft.
+
+- Leave covered in a bowl until it duplicates its size (about 1 hr).
+
+- Braid (see below), paint with the remaining egg and add the seeds on top. If you don't have a brush to paint the egg, you can do it with a paper towel.
+
+- Cook in a pre-heated oven at medium heat until they're very golden.
+
+- Enjoy! Right out of the oven, with some butter or cream cheese they are delicious =)
+
+#To braid
+If you want them to be round like in the picture, this is what you have to do:
+
+(1) Cut the dough for 1 bread in 4 equal pieces and roll.
+
+```{r paso1, echo=FALSE, out.width = '200px', fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso1.jpg")
+```
+
+
+(2) Put 2 rolls horizontally on the table and add one vertically on top of the others.
+
+```{r paso2, echo=FALSE, out.width = '200px', fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso2.jpg")
+```
+
+
+(3) Add a third horizontal roll over the vertical one, in between the other two horizontals.
+
+```{r paso3, echo=FALSE, out.width = '200px',fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso3.jpg")
+```
+
+(4) Braid on each side of the vertical roll, using the 3 horizontal ones.
+
+```{r paso4, echo=FALSE, out.width = '200px',fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso4.jpg")
+```
+
+(5) Fold the endings of the braids and of the vertical roll downward. This recipe yields about 4-5 big breads.
+
+```{r paso5, echo=FALSE, out.width = '200px', fig.align="center"}
+knitr::include_graphics("/images/blog/jale-paso5.jpg")
+```
+
