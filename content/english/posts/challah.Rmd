@@ -79,3 +79,10 @@ knitr::include_graphics("/images/blog/jale-paso4.jpg")
 knitr::include_graphics("/images/blog/jale-paso5.jpg")
 ```
 
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-W0xcLHo8x")
+
+```
