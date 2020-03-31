@@ -5,10 +5,19 @@
     <link>/en/</link>
     <description>Recent content on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Mar 2020 08:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 08:12:13 +0000</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Granola</title>
+      <link>/en/blog/granola/</link>
+      <pubDate>Tue, 31 Mar 2020 08:12:13 +0000</pubDate>
+      
+      <guid>/en/blog/granola/</guid>
+      <description>I had a hard time finding a comercial granola that I liked.</description>
+    </item>
     
     <item>
       <title>Recipes from my bubbe: challah (braided jewish bread)</title>
@@ -120,15 +129,6 @@
     </item>
     
     <item>
-      <title>Granola</title>
-      <link>/en/blog/granola/</link>
-      <pubDate>Sat, 28 Mar 2020 17:28:46 +0000</pubDate>
-      
-      <guid>/en/blog/granola/</guid>
-      <description>I had a hard time finding a comercial granola that I liked.</description>
-    </item>
-    
-    <item>
       <title>Pasta with tomato-cream sauce</title>
       <link>/en/blog/tomato-cream-sauce-pasta/</link>
       <pubDate>Sat, 28 Mar 2020 17:18:27 +0000</pubDate>
@@ -155,15 +155,6 @@
       <guid>/en/blog/egglant-garlic-soy-sauce/</guid>
       <description>Ingredients1 big eggplant
 6 garlic cloves</description>
-    </item>
-    
-    <item>
-      <title>Sopa de lentejas</title>
-      <link>/en/blog/sopa-de-lentejas/</link>
-      <pubDate>Sat, 28 Mar 2020 16:45:40 +0000</pubDate>
-      
-      <guid>/en/blog/sopa-de-lentejas/</guid>
-      <description>Ingredientes1 taza de lentejas rojas (o comunes en su defecto)</description>
     </item>
     
   </channel>

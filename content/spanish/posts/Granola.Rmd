@@ -36,3 +36,11 @@ Me costó mucho encontrar una granola comercial que me guste. Me suelen parecer 
 - Sacar y dejar enfriar en la placa.
 
 - Agregar las pasas.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-ZcQxinThB")
+
+```

@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/granola/</loc>
+    <lastmod>2020-03-31T08:12:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/granola/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/granola/"
+                />
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-03-30T08:45:26+00:00</lastmod>
+    <lastmod>2020-03-31T08:12:46+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +34,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-03-30T08:45:26+00:00</lastmod>
+    <lastmod>2020-03-31T08:12:46+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,16 +75,6 @@
   <url>
     <loc>/tags/vegetariano/</loc>
     <lastmod>2020-03-29T19:51:29+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/vegetariano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/vegetariano/"
-                />
   </url>
   
   <url>
@@ -115,31 +120,11 @@
   <url>
     <loc>/blog/sopa-de-lentejas/</loc>
     <lastmod>2020-03-28T16:44:05+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/sopa-de-lentejas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/sopa-de-lentejas/"
-                />
   </url>
   
   <url>
     <loc>/tags/vegano/</loc>
     <lastmod>2020-03-28T16:44:05+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/vegano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/vegano/"
-                />
   </url>
   
   <url>
@@ -150,21 +135,6 @@
   <url>
     <loc>/blog/hummus-de-morrones-asados/</loc>
     <lastmod>2020-03-28T16:40:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/granola/</loc>
-    <lastmod>2020-03-28T16:39:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/granola/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/granola/"
-                />
   </url>
   
   <url>

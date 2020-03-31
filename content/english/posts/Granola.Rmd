@@ -36,3 +36,12 @@ I had a hard time finding a comercial granola that I liked. I usually find them 
 - Remove it from the oven and let it dry.
 
 - Add the dry fruit.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-ZcQxinThB")
+
+```

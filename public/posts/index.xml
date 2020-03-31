@@ -5,10 +5,19 @@
     <link>/posts/</link>
     <description>Recent content in Posts on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Mar 2020 08:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 08:12:46 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Granola</title>
+      <link>/blog/granola/</link>
+      <pubDate>Tue, 31 Mar 2020 08:12:46 +0000</pubDate>
+      
+      <guid>/blog/granola/</guid>
+      <description>Me costó mucho encontrar una granola comercial que me guste.</description>
+    </item>
     
     <item>
       <title>Recetas de la bobe: jale o jalá (pan trenzado judío)</title>
@@ -90,15 +99,6 @@
       
       <guid>/blog/hummus-de-morrones-asados/</guid>
       <description>Este hummus queda riquísimo untado en cualquier pan, con palitos de verduras varias (zanahoria, zuccini, morrón) o agregado como condimento a una ensalada.</description>
-    </item>
-    
-    <item>
-      <title>Granola</title>
-      <link>/blog/granola/</link>
-      <pubDate>Sat, 28 Mar 2020 16:39:16 +0000</pubDate>
-      
-      <guid>/blog/granola/</guid>
-      <description>Me costó mucho encontrar una granola comercial que me guste.</description>
     </item>
     
     <item>
