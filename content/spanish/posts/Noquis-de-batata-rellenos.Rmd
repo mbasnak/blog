@@ -1,0 +1,50 @@
+---
+title: "Ñoquis de batata rellenos"
+date: "`r Sys.time()`"
+image: images/blog/noquis-rellenos.jpg
+tags: ["vegetariano"]
+---
+
+#Ingredientes (Para 2 personas que quieren comer mucho, o para 3)
+
+- 750 gr de batata
+
+- 1 yema
+
+- 200 gr de harina 0000
+
+- un poquito de mozzarella para rellenar
+
+- 1 cda de manteca
+
+- sal c/n
+
+- pimienta c/n
+
+- nuez moscada c/n
+
+#Preparación
+
+- Hervir las batatas y hacer puré con la cda de manteca.
+
+- Condimentar con la sal, pimienata y nuez moscada.
+
+- Agregar la yema y la harina y amasar hasta que quede homogéneo.
+
+- Hacer bolitas, más grandes que los ñoquis normales, y ponerles un pedacito chiquito de queso adentro.
+
+- Cocinar en agua hirviendo y cuando suban en la olla, colar.
+
+- Servir como más les guste. Yo elegí servirlo con salsa blanca (30 gr de manteca, 30 gr de harina y 500 cc de leche), espinaca salteada con ajo y queso rallado.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-cozSsJL6D")
+
+```
+
+
+

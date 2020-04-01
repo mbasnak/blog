@@ -1,0 +1,48 @@
+---
+title: "Stuffed sweet potato gnocci"
+date: "`r Sys.time()`"
+image: images/blog/noquis-rellenos.jpg
+tags: ["vegetarian"]
+---
+
+#Ingredients (For 2 people who want to eat a lot or for 3)
+
+- 1.65 pounds sweet potato
+
+- 1 egg yolk
+
+- 1 and 2/3 cups of all purpose flour
+
+- a little bit of mozzarella cheese for the stuffing
+
+- 1 tbsp butter
+
+- salt to taste
+
+- pepper to taste
+
+- nutmeg to taste
+
+#Directions
+
+- Boil the sweet potatoes and make a mash with the tbsp of butter.
+
+- Season with salt, pepper and nutmeg.
+
+- Add the egg yolk and flour and combine until you obtain a homogeneous dough.
+
+- Shape the gnocci, bigger than regular gnocci, and add a little bit of cheese inside.
+
+- Cook in boiling water and when they rise in the pot, strain.
+
+- Serve with your favorite sauce. I chose to serve it with bechamel sauce (made with 1 tbsp butter, 1 and 1/2 tbsp all purpose flour, and 1 cup of milk), spinach and mushrooms sauted with garlic, and grated cheese.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-cozSsJL6D")
+
+```
+
