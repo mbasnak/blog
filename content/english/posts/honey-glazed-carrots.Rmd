@@ -1,0 +1,48 @@
+---
+title: "Honey glazed carrots"
+date: "`r Sys.time()`"
+image: images/blog/zanahorias-glaseadas.png
+tags: ["vegetarian"]
+---
+
+#Ingredients 
+
+- 4 carrots
+
+- 1 tbsp butter
+
+- 2 tbsp honey
+
+- 4 garlic cloves
+
+- 1/2 lemon
+
+- 4 tbsp olive oil
+
+- rosemary to taste
+
+- salt to taste
+
+- pepper to taste
+
+
+#Directions
+
+- Cut the carrots in big pieces.
+
+- Melt the butter in a pan and add the minced garlic, the honey, the juice of half a lemon, the olive oil and the seasoning. Heat for a few min.
+
+- Turn off the stove, add the carrots and combine everything.
+
+- Cook at medium heat in a pre-heated oven for 30 min.
+
+- You can eat them as an appetizer or a side dish. I served them with chickpea burgers.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-fJuXAHZdx")
+
+```
+

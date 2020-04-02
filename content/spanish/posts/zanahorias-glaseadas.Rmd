@@ -1,0 +1,48 @@
+---
+title: "Zanahorias glaseadas"
+date: "`r Sys.time()`"
+image: images/blog/zanahorias-glaseadas.png
+tags: ["vegetariano"]
+---
+
+#Ingredientes 
+
+- 4 zanahorias
+
+- 1 cda de manteca
+
+- 2 cdas de miel
+
+- 4 dientes de ajo
+
+- medio limón
+
+- 4 cdas de aceite de oliva
+
+- romero c/n
+
+- sal c/n
+
+- pimienta c/n
+
+
+#Preparación
+
+- Cortar las zanahorias en pedazos grandes.
+
+- Derretir la manteca en una ollita y agregarle el ajo picado, la miel, el jugo de medio limón, el aceite de oliva y los condimentos. Calentar un par de minutos
+
+- Apagar el fuego, agregar las zanahorias a la mezcla e integrar todo.
+
+- Cocinar en horno precalentado medio por 30 min.
+
+- Las podés disfrutar como parte de una picada, o como guarnición de algún plato. Yo las comí con hamburguesas de garbanzos.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-fJuXAHZdx")
+
+```
+
