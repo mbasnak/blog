@@ -1,0 +1,75 @@
+---
+title: "Chicken and broccoli pie"
+date: "`r Sys.time()`"
+image: images/blog/tarta-pollo-brocoli.png
+---
+
+#Ingredients 
+
+**For the dough**
+- 2 cups of all purpose flour
+
+- 1/2 cup vegetable oil
+
+- 1/2 cup water
+
+- thyme to taste
+
+- salt to taste
+
+**For the filling**
+- 1 chicken breast (about 0.750 pounds)
+
+- 0.750 pounds broccoli
+
+- 1 onion
+
+- 3 garlic cloves
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+**For the binding mix**
+- 250 gr bechamel sauce
+
+- 2 eggs
+
+- 2 tbsp grated cheese
+
+- seeds to taste
+
+
+#Directions
+
+**For the dough**
+- Mix the flour with the salt and thyme.
+
+- Add the oil.
+
+- Gradually add the water and combine.
+
+- Knead until you get a homogeneous and soft roll.
+
+- Roll and cover a pie dish.
+
+**For the filling**
+- Saute the onion and garlic finely chopped in olive oil for a couple min.
+
+- Add the chicken cut in cubes, the broccoli cut in small pieces, salt and pepper.
+
+- Cook for about 10 min or until the chicken is done.
+
+**Assembly**
+- Put together the binding: mix the bechame sauce with 2 eggs and 2 tbsp of grated cheese.
+
+- Add the filling to the base, and add the binding mix.
+
+- Cook at medium heat in the oven for about 50 min.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-hs4DpHkXi")

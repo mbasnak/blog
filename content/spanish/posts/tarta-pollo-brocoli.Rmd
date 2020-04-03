@@ -1,0 +1,76 @@
+---
+title: "Tarta de pollo y brócoli"
+date: "`r Sys.time()`"
+image: images/blog/tarta-pollo-brocoli.png
+---
+
+#Ingredientes 
+
+**Para la masa**
+- 2 tazas de harina 0000
+
+- 1/2 taza de aceite neutro
+
+- 1/2 taza de agua
+
+- tomillo c/n
+
+- sal c/n
+
+**Para el relleno**
+- 1 suprema de pollo (350 gr)
+
+- 350 gr de brócoli
+
+- 1 cebolla
+
+- 3 dientes de ajo
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+**Para el ligue**
+- 250 gr de salsa blanca
+
+- 2 huevos
+
+- 2 cdas de queso rallado
+
+- semillas c/n
+
+
+
+#Preparación
+
+**Para la masa**
+- Mezclar la harina con la sal y el tomillo.
+
+- Agregar el aceite.
+
+- Agregar el agua de a poco e integrar.
+
+- Amasar hasta que quede un bollo uniforme y suave.
+
+- Estirar y cubrir una tartera.
+
+**Para el relleno**
+- Saltear en aceite de oliva la cebolla y el ajo picados por un par de min.
+
+- Agregar el pollo cortado en cubos y el brócoli cortado en pedazos chicos, sal y pimienta.
+
+- Cocinar por unos 10 min o hasta que el pollo esté cocido.
+
+**Armado**
+- Armar el ligue: mezclar la salsa blanca con dos huevos y 2 cdas de queso rallado.
+
+- Poner el relleno sobre la masa y agregar el ligue.
+
+- Llevar a horno medio por 50 min.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-hs4DpHkXi")
