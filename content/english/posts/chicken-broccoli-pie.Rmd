@@ -33,7 +33,7 @@ image: images/blog/tarta-pollo-brocoli.png
 - olive oil to taste
 
 **For the binding mix**
-- 250 gr bechamel sauce
+- 1/2 pound bechamel sauce
 
 - 2 eggs
 
