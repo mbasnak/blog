@@ -7,7 +7,7 @@ DefaultContentLanguage = "es"
 #title = "Restaurant Theme By Themefisher"
 theme = "restaurant-hugo"
 summaryLength = "7"
-paginate = 6
+paginate = 4
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","UNPUBLISHED"]
 [permalinks]
@@ -64,7 +64,7 @@ URL = "js/main.js"
 
 [[languages.es.menu.main]]
 name = "Home"
-URL = "home"
+URL = "hero-area"
 weight = 1
 
 [[languages.es.menu.main]]
@@ -129,9 +129,9 @@ logo = "images/logo2.png" #cambiar por imagen mia
 #author = "Themefisher"
 #description = "This is meta description"
 # google analitycs ID
-#google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-162811158-1"
 # copyright
-#copyright = "Copyright 2020 - All Rights Reserved. Design and Developed By Themefisher.com"
+copyright = "Copyright 2020 - All Rights Reserved. Photos and content by Melanie Basnak"
 
 
 

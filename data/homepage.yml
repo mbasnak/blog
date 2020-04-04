@@ -7,18 +7,18 @@ heroArea:
 ################### Gallery ###################
 gallery:
   enable : true
-  #title : "FEATURED WORKS"
+ # title : "FEATURED WORKS"
   sliderItem:
     - image : "images/blog/BerenjenasAjoSalsaDeSoja.png"
     - image : "images/blog/HummusDeMorrones.png"
-    - image : "images/blog/CurryDeGarbanzos.png"
-    - image : "images/blog/SopaDeLentejas.png"
-    - image : "images/blog/albondigas-de-porotos.png"
-    - image : "images/blog/FideosConSalsaMixta.png"
+   # - image : "images/blog/CurryDeGarbanzos.png"
+  #  - image : "images/blog/SopaDeLentejas.png"
+   # - image : "images/blog/albondigas-de-porotos.png"
+  #  - image : "images/blog/FideosConSalsaMixta.png"
     - image : "images/blog/Garrapinadas.png"
-    - image : "images/blog/LasanaEspinacaSalsaBlanca.png"
-    - image : "images/blog/ArrolladitosCarne.jpg"    
-    - image : "images/blog/granola.png" 
+   # - image : "images/blog/LasanaEspinacaSalsaBlanca.png"
+  #  - image : "images/blog/ArrolladitosCarne.jpg"    
+   # - image : "images/blog/granola.png" 
     - image : "images/blog/calzone.jpg" 
     
 
