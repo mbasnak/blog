@@ -5,10 +5,19 @@
     <link>/en/posts/</link>
     <description>Recent content in Posts on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Apr 2020 13:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 15:34:12 +0000</lastBuildDate>
     
 	<atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vegetarian &#39;meatloaf&#39;</title>
+      <link>/en/blog/vegetarian-meatloaf/</link>
+      <pubDate>Sun, 05 Apr 2020 15:34:12 +0000</pubDate>
+      
+      <guid>/en/blog/vegetarian-meatloaf/</guid>
+      <description>Ingredients1 can of black beans</description>
+    </item>
     
     <item>
       <title>Chicken and broccoli pie</title>

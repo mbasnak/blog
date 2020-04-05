@@ -1,0 +1,67 @@
+---
+title: "Pan de 'carne' vegetariano"
+date: "`r Sys.time()`"
+image: images/blog/pan-de-carne-vegetariano.png
+tags: ["vegetariano"]
+---
+
+#Ingredientes
+
+- 1 lata de porotos negros
+
+- 1 zanahoria
+
+- 2 cebollas
+
+- 5 dientes de ajo
+
+- 2/3 taza pan rallado
+
+- 1 huevo
+
+- 1 lata de salsa de tomate
+
+- orégano c/n
+
+- ají molido c/n
+
+- comino c/n
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+
+# Preparación
+
+- Escurrir la lata de porotos negros y secar los porotos con papel absorbente.
+
+- Aplastar con tenedor o procesar grueso dejando algunos pedazos visibles.
+
+- Procesar 2 dientes de ajo, 1 cebolla y la zanahoria.
+
+- Mezclar los porotos con el procesado de cebolla. Agregar sal, pimienta, comino y ají molido.
+
+- Agregar el huevo y el pan rallado y unir todo bien.
+
+- Formar el pan de carne y llevar a un horno en una fuente con aceite de oliva.
+
+- Mientras el pan está en el horno, picar la cebolla y los 2 dientes de ajo restantes.
+
+- Dorar en una sartén en aceite de oliva por unos minutos.
+
+- Agregar la salsa de tomate, sal y orégano y cocinar por 5-10 min.
+
+- Sacar el pan de carne del horno, darlo vuelta, agregar la salsa de tomate por encima y volver al horno por unos 10 minutos.
+
+
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-nGd0lHE2j")
+
+```
+

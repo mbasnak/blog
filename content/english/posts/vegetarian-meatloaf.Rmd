@@ -1,0 +1,65 @@
+---
+title: "Vegetarian 'meatloaf'"
+date: "`r Sys.time()`"
+image: images/blog/pan-de-carne-vegetariano.png
+tags: ["vegetarian"]
+---
+
+#Ingredients
+
+- 1 can of black beans
+
+- 1 carrot
+
+- 2 onions
+
+- 5 garlic cloves
+
+- 2/3 cup breadcrumbs
+
+- 1 egg
+
+- 1 can tomato sauce
+
+- oregano to taste
+
+- crushed red pepper to taste
+
+- cumin to taste
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+
+#Directions
+
+- Strain the can of black beans and pat dry with a paper towel.
+
+- Crush the beans with a fork or process them coarsely.
+
+- Chop finely or process 2 garlic coves, 1 onion and the carrot.
+
+- Mix the beans with the onion mix. Add salt, pepper, cumin and crushed red pepper.
+
+- Add the egg and breadcrumbs and combine everything.
+
+- Shape the meatloaf and cook in the oven at medium heat in a dish with some olive oil.
+
+- While the loaf is cooking, chop the remaining onion and 2 garlic cloves.
+
+- Saute in a pan in olive oil for a few min.
+
+- Add the tomato sauce, salt, pepper and oregano and cook for 5-10 min.
+
+- Remove the loaf from the oven, flip, add the tomato sauce on top of it and go back to the oven for an extra 10 min.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-nGd0lHE2j")
+```
