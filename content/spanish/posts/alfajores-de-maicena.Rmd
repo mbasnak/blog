@@ -1,0 +1,60 @@
+---
+title: "Recetas argentinas: alfajores de maicena"
+date: "`r Sys.time()`"
+image: images/blog/alfajores-de-maicena.png
+tags: ["dulce"]
+---
+
+
+
+#Ingredientes
+
+- 100 gr de manteca
+
+- 100 gr de azúcar impalpable
+
+- 2 huevos
+
+- 1 cdita de esencia de vainilla
+
+- 1 cda de ralladura de limón
+
+- 100 gr harina 0000
+
+- 200 gr de maicena
+
+- 1/2 cdta de polvo de hornear
+
+- 250 gr de dulce de leche
+
+- 50 gr coco rallado
+
+
+#Preparación
+
+- Batir la manteca pomada y el azúcar impalpable.
+
+- Agregar los huevos de a uno.
+
+- Agregar la esencia de vainilla y la ralladura de limón.
+
+- En otro bowl, mezclar la harina, polvo de hornear y la maicena.
+
+- Incorporar los secos a la mezcla húmeda con movimientos envolventes.
+
+- Envolver la masa en film y dejar en la heladera por 30-60 min.
+
+- Darle calor a la masa con las manos y estirarla.
+
+- Cortar discos del tamaño que prefieras.
+
+- Poner los discos en una placa enmantecada y llevar a un horno medio por 10 min.
+
+- Para armarlos, cuando las tapas estén frías, rellenar con dulce de leche y rodar los alfajorcitos sobre un plato con coco rallado.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-p4L_xHqws")
+
+```

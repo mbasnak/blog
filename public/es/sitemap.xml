@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/dulce/</loc>
+    <lastmod>2020-04-06T17:23:32+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-04-05T15:34:13+00:00</lastmod>
+    <lastmod>2020-04-06T17:23:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +23,8 @@
   </url>
   
   <url>
-    <loc>/blog/pan-de-carne-vegetariano/</loc>
-    <lastmod>2020-04-05T15:34:13+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
-    <lastmod>2020-04-05T15:34:13+00:00</lastmod>
+    <lastmod>2020-04-06T17:23:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,8 +38,23 @@
   </url>
   
   <url>
+    <loc>/blog/alfajores-de-maicena/</loc>
+    <lastmod>2020-04-06T17:23:32+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/alfajores-de-maicena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/alfajores-de-maicena/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2020-04-05T15:34:13+00:00</lastmod>
+    <lastmod>2020-04-06T17:23:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,6 +65,11 @@
                 hreflang="es"
                 href="/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>/blog/pan-de-carne-vegetariano/</loc>
+    <lastmod>2020-04-05T15:34:13+00:00</lastmod>
   </url>
   
   <url>
@@ -95,11 +115,6 @@
   <url>
     <loc>/blog/calzone-de-tomate/</loc>
     <lastmod>2020-03-29T19:51:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dulce/</loc>
-    <lastmod>2020-03-29T16:11:31+00:00</lastmod>
   </url>
   
   <url>

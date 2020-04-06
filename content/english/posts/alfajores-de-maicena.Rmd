@@ -1,0 +1,60 @@
+---
+title: "Argentinean recipes: alfajores de maicena"
+date: "`r Sys.time()`"
+image: images/blog/alfajores-de-maicena.png
+tags: ["sweet"]
+---
+
+
+
+#Ingredients
+
+- 1 stick unsalted butter
+
+- 1 cup powdered sugar
+
+- 2 eggs
+
+- 1 tsp vanilla extract
+
+- 1 tbsp lemon zest
+
+- 3/4 cup all purpose flour
+
+- 1 and 1/2 cup cornstarch
+
+- 1/2 tsp baking powder
+
+- 1 cup dulce de leche (if you can get it, you can make it by boiling 1 can of condensed milk for 4 hs)
+
+- 1/2 up dessicated coconut
+
+
+#Directions
+
+- Whisk the soft butter with the powdered sugar.
+
+- Add the eggs one at a time.
+
+- Add the vanilla extract and lemon zest.
+
+- In another bowl, mix the flour, baking powder and cornstarch.
+
+- Add the dry ingredients to the wet mix.
+
+- Wrap the dough and put in the fridge for 30-60 min.
+
+- Warm the dough with your hands and roll.
+
+- Cut disks of your favorite size.
+
+- Put the disks on a baking dish with some butter on it and cook at medium heat for 10 min.
+
+- To assemble the alfajores, once the cookies are cold, make a sandwich with 2 cookies and some dulce de leche in the middle. Roll the alfajor on a plate with dessicated coconut.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-p4L_xHqws")
+
+```
