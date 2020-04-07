@@ -1,0 +1,50 @@
+---
+title: "Sopa de espárragos"
+date: "`r Sys.time()`"
+image: images/blog/sopa-de-esparragos.png
+tags: ["vegetariano"]
+---
+
+Si no conseguís espárragos, la podés hacer con brócoli que también queda muy rica!
+
+#Ingredientes
+
+- 350 gr de espárragos
+
+- 1 cubito de caldo de verdura
+
+- 1 cebolla
+
+- 2 dientes de ajo
+
+- 1/2 limón
+
+- 1 chorrito de crema de leche
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+- queso rallado c/n
+
+
+#Preparación
+
+- Picar el ajo y la cebolla chiquitos. Dorar en aceite de oliva por unos min. Agregar sal y pimienta.
+
+- Agregar los espárragos cortados en pedacitos y dorar un par de min más.
+
+- Agregar el caldito y cubrir con agua. Cocinar por unos 10 min o hasta que los espárragos se pinchen fácil.
+
+- Sacar del fuego y procesar.
+
+- Agregar un chorrito de crema de leche, el jugo de medio limón y un poco de queso rallado.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-r-ZkVnOzw")
+
+```

@@ -5,10 +5,19 @@
     <link>/</link>
     <description>Recent content on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Apr 2020 17:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 12:57:10 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sopa de espárragos</title>
+      <link>/blog/sopa-de-esparragos/</link>
+      <pubDate>Tue, 07 Apr 2020 12:57:10 +0000</pubDate>
+      
+      <guid>/blog/sopa-de-esparragos/</guid>
+      <description>Si no conseguís espárragos, la podés hacer con brócoli que también queda muy rica!</description>
+    </item>
     
     <item>
       <title>Recetas argentinas: alfajores de maicena</title>

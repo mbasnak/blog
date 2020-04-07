@@ -1,0 +1,51 @@
+---
+title: "Asparagus soup"
+date: "`r Sys.time()`"
+image: images/blog/sopa-de-esparragos.png
+tags: ["vegetarian"]
+---
+
+You can replace the asparagus with broccoli and it will also be very tasty :)
+
+#Ingredients
+
+- 0.75 pounds asparagus
+
+- 1 vegetable bouillon cube
+
+- 1 onion
+
+- 2 garlic cloves
+
+- 1/2 lemon
+
+- a splash of heavy cream
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+- grated cheese to taste
+
+
+
+#Directions
+
+- Chop the garlic and onion. Saute in olive oil for a few min. Add salt and pepper.
+
+- Add the asparagus chopped in pieces and saute a few more min.
+
+- Add the bouillon cube and cover with water. Cook for about 10 min or until the asparagus can be easily pierced with a fork.
+
+- Remove from the stove and blend.
+
+- Add a splash of heavy crem, the juice of half a lemon and some of grated cheese.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-r-ZkVnOzw")
+
+```

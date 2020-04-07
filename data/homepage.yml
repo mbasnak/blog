@@ -1,7 +1,7 @@
 ################## Hero area ##################
 heroArea:
   enable : true
-  bgImage : "images/header.jpg" #necesito una imagen que sea ancha y baja para que esto funcione
+  bgImage : "images/header.png" #necesito una imagen que sea ancha y baja para que esto funcione
   overlay : true
 
 ################### Gallery ###################
