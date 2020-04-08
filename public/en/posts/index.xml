@@ -5,10 +5,19 @@
     <link>/en/posts/</link>
     <description>Recent content in Posts on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Apr 2020 12:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 13:26:01 +0000</lastBuildDate>
     
 	<atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stuffed mushrooms</title>
+      <link>/en/blog/stuffed-mushrooms/</link>
+      <pubDate>Wed, 08 Apr 2020 13:26:01 +0000</pubDate>
+      
+      <guid>/en/blog/stuffed-mushrooms/</guid>
+      <description>These stuffed mushrooms are great as an appetizer for a party, or as a side dish for lunch/dinner!</description>
+    </item>
     
     <item>
       <title>Asparagus soup</title>

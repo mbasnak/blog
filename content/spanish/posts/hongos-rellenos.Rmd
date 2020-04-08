@@ -1,0 +1,53 @@
+---
+title: "Hongos rellenos"
+date: "`r Sys.time()`"
+image: images/blog/hongos-rellenos.jpg
+tags: ["vegetariano"]
+---
+
+Estos hongos rellenos están bárbaros como entrada en una reunión o fiesta, o como guarnición para una comida!
+
+#Ingredientes
+
+- 250 hongos que se puedas rellenar (champiñones, portobello,...)
+
+- 1 cebolla
+
+- 2 dientes de ajo
+
+- 2 cebollas de verdeo
+
+- 3 cdas de queso crema
+
+- 1/2 limón
+
+- 2 cdas pan rallado
+
+- sal c/n
+
+- pimienta c/n
+
+- tomillo c/n
+
+- aceite de oliva c/n
+
+
+
+#Preparación
+
+- Sacarle la base a los hongos y cortarla chiquita.
+
+- Picar el ajo y la cebolla y saltear en aceite de oliva por 3 min con sal y pimienta.
+
+- Agregar la cebolla de verdeo cortada chiquita y las bases de hongo picadas y cocinar 2 min más.
+
+- Sacar del fuego y mezclar con el queso crema, pan rallado, jugo de medio limón y tomillo. Si hace falta, agregar sal y pimienta.
+
+- Rellená los hongos y llevar a un horno medio por unos 20 min.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-umkBvpXZV")
+
+```

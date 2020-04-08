@@ -1,0 +1,53 @@
+---
+title: "Stuffed mushrooms"
+date: "`r Sys.time()`"
+image: images/blog/hongos-rellenos.jpg
+tags: ["vegetarian"]
+---
+
+These stuffed mushrooms are great as an appetizer for a party, or as a side dish for lunch/dinner!
+
+#Ingredients
+
+- 0.6 pounds of mushrooms that can be stuffed (cremini, portobello,...)
+
+- 1 onion
+
+- 2 garlic cloves
+
+- 2 spring onions
+
+- 3 tbsp cream cheese
+
+- 1/2 lemon
+
+- 2 tbsp breadcrumbs
+
+- salt to taste
+
+- pepper to taste
+
+- thyme to taste
+
+- olive oil to taste
+
+
+
+#Directions
+
+- Remove the base from the mushrooms and chop very finely.
+
+- Chop the onion and garlic aud saute in olive oil for about 3 min adding salt and pepper.
+
+- Add the chopped spring onion and the mushroom bases and cook for 2 more min.
+
+- Remove from the stove and mix with cream cheese, breadcrumbs, juice from half a lemon and thyme. If necessary, add more salt and pepper.
+
+- Stuff the mushrooms and cook at medium heat for about 20 min.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-umkBvpXZV")
+
+```
