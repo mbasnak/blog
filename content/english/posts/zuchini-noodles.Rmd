@@ -1,0 +1,53 @@
+---
+title: "Zucchini and carrot noodles"
+date: "`r Sys.time()`"
+image: images/blog/fideos-zucchini.jpg
+tags: ["vegetarian","vegan","paleo","keto"]
+---
+
+These veggie noodles are delicious warm like tis but can also be enjoyed as a salad!
+
+#Ingredients
+
+- 4 zucchinis
+
+- 2 carrots
+
+- 4 garlic cloves
+
+- 1 piece of ginger
+
+- 2 spring onions
+
+- 2 tbsp almond butter (or peanut butter)
+
+- 4 tbsp soy sauce
+
+- olive oil to taste
+
+- salt to taste
+
+- pepper to taste
+
+- seeds to taste
+
+
+
+#Directions
+
+- Make zucchini and carrot noodles with a potato peeler.
+
+- Chop 2 garlic cloves, 2 spring onions and a piece of ginger. Saute in olive oil with salt and pepper for 2 min.
+
+- Add the veggie thins, the almond butter and the soy sauce, miz very well and cook for about 5 min.
+
+- In a pan, saute in olive oil the 2 remaining garlic cloves and some more ginger chopped finely, as well as the seeds of your preference.
+
+- Serve the noodles and add the mix of garlic on top.
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-xLpIGH6tK")
+
+```

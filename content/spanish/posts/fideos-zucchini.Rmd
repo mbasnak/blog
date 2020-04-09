@@ -1,0 +1,54 @@
+---
+title: "Fideos de zucchini y zanahoria"
+date: "`r Sys.time()`"
+image: images/blog/fideos-zucchini.jpg
+tags: ["vegetariano","vegano","paleo","keto"]
+---
+
+Estos fideos de verdura son riquísimos calientes así, pero también se pueden comer como ensalada!
+
+#Ingredientes
+
+- 4 zucchinis
+
+- 2 zanahorias
+
+- 4 dientes de ajo
+
+- 1 pedacito de jengibre
+
+- 2 cebollas de verdeo
+
+- 2 cdas de mantequilla de almendras o maní
+
+- 4 cdas de salsa de soja
+
+- aceite de oliva c/n
+
+- sal c/n
+
+- pimienta c/n
+
+- semillas c/n
+
+
+
+#Preparación
+
+- Hacer fideos de zucchini y zanahoria usando un pelapapas para obtener capas muy finitas.
+
+- Picar 2 dientes de ajo, 2 cebollas de verdeo y un pedacito de jengibre. Dorar en aceite de oliva con sal y pimienta por 2 min.
+
+- Agregar las capas de verdura, la mantequilla de almendras y salsa de soja, mezclar bien y cocinar por unos 5 min.
+
+- En una sartén, saltear en aceite de oliva los dos dientes de ajo restantes picados fino, otro poquito de jengibre picado, y las semillas que más les gusten.
+
+- Servir los fideos y ponerles la mezcla de ajo salteado encima.
+
+
+```{r, echo = FALSE, warning = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-xLpIGH6tK")
+
+```

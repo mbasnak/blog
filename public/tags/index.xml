@@ -5,15 +5,42 @@
     <link>/tags/</link>
     <description>Recent content in Tags on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Apr 2020 13:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 13:28:57 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>keto</title>
+      <link>/tags/keto/</link>
+      <pubDate>Thu, 09 Apr 2020 13:28:57 +0000</pubDate>
+      
+      <guid>/tags/keto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paleo</title>
+      <link>/tags/paleo/</link>
+      <pubDate>Thu, 09 Apr 2020 13:28:57 +0000</pubDate>
+      
+      <guid>/tags/paleo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegano</title>
+      <link>/tags/vegano/</link>
+      <pubDate>Thu, 09 Apr 2020 13:28:57 +0000</pubDate>
+      
+      <guid>/tags/vegano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>vegetariano</title>
       <link>/tags/vegetariano/</link>
-      <pubDate>Wed, 08 Apr 2020 13:25:54 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2020 13:28:57 +0000</pubDate>
       
       <guid>/tags/vegetariano/</guid>
       <description></description>
@@ -34,15 +61,6 @@
       <pubDate>Sun, 29 Mar 2020 16:11:15 +0000</pubDate>
       
       <guid>/tags/tip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegano</title>
-      <link>/tags/vegano/</link>
-      <pubDate>Sat, 28 Mar 2020 16:44:05 +0000</pubDate>
-      
-      <guid>/tags/vegano/</guid>
       <description></description>
     </item>
     

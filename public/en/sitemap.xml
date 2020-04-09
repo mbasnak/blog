@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/tags/keto/</loc>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/keto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/keto/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/</loc>
-    <lastmod>2020-04-08T13:26:01+00:00</lastmod>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -18,8 +33,23 @@
   </url>
   
   <url>
+    <loc>/en/tags/paleo/</loc>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/paleo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/paleo/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-04-08T13:26:01+00:00</lastmod>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,13 +63,8 @@
   </url>
   
   <url>
-    <loc>/en/blog/stuffed-mushrooms/</loc>
-    <lastmod>2020-04-08T13:26:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/en/tags/</loc>
-    <lastmod>2020-04-08T13:26:01+00:00</lastmod>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -53,7 +78,22 @@
   </url>
   
   <url>
+    <loc>/en/tags/vegan/</loc>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/en/tags/vegetarian/</loc>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/zuchini-noodles/</loc>
+    <lastmod>2020-04-09T13:29:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/stuffed-mushrooms/</loc>
     <lastmod>2020-04-08T13:26:01+00:00</lastmod>
   </url>
   
@@ -149,11 +189,6 @@
   
   <url>
     <loc>/en/blog/roasted-pepper-hummus/</loc>
-    <lastmod>2020-03-29T16:10:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/vegan/</loc>
     <lastmod>2020-03-29T16:10:20+00:00</lastmod>
   </url>
   
