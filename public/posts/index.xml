@@ -5,10 +5,28 @@
     <link>/posts/</link>
     <description>Recent content in Posts on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Apr 2020 13:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 09:41:57 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tarta de pollo y brócoli</title>
+      <link>/blog/tarta-pollo-brocoli/</link>
+      <pubDate>Sun, 12 Apr 2020 09:41:57 +0000</pubDate>
+      
+      <guid>/blog/tarta-pollo-brocoli/</guid>
+      <description>IngredientesPara la masa - 2 tazas de harina 0000</description>
+    </item>
+    
+    <item>
+      <title>Florentinas (casi)</title>
+      <link>/blog/florentinas/</link>
+      <pubDate>Sun, 12 Apr 2020 09:41:56 +0000</pubDate>
+      
+      <guid>/blog/florentinas/</guid>
+      <description>Las florentinas son unas galletas italianas de frutos secos y chocolate muy muy finitas, riquísimas.</description>
+    </item>
     
     <item>
       <title>Fideos de zucchini y zanahoria</title>
@@ -53,15 +71,6 @@
       
       <guid>/blog/pan-de-carne-vegetariano/</guid>
       <description>Ingredientes1 lata de porotos negros</description>
-    </item>
-    
-    <item>
-      <title>Tarta de pollo y brócoli</title>
-      <link>/blog/tarta-pollo-brocoli/</link>
-      <pubDate>Fri, 03 Apr 2020 13:19:25 +0000</pubDate>
-      
-      <guid>/blog/tarta-pollo-brocoli/</guid>
-      <description>IngredientesPara la masa - 2 tazas de harina 0000</description>
     </item>
     
     <item>
@@ -136,15 +145,6 @@
       
       <guid>/blog/como-pelar-almendras/</guid>
       <description>Las almendras se pueden comprar peladas pero suelen ser mucho más caras.</description>
-    </item>
-    
-    <item>
-      <title>Florentinas (casi)</title>
-      <link>/blog/florentinas/</link>
-      <pubDate>Sun, 29 Mar 2020 15:38:49 +0000</pubDate>
-      
-      <guid>/blog/florentinas/</guid>
-      <description>Las florentinas son unas galletas italianas de frutos secos y chocolate muy muy finitas, riquísimas.</description>
     </item>
     
     <item>

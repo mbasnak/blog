@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-12T09:41:57+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-04-12T09:41:57+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/tarta-pollo-brocoli/</loc>
+    <lastmod>2020-04-12T09:41:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dulce/</loc>
+    <lastmod>2020-04-12T09:41:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/florentinas/</loc>
+    <lastmod>2020-04-12T09:41:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-12T09:41:56+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/blog/fideos-zucchini/</loc>
     <lastmod>2020-04-09T13:28:57+00:00</lastmod>
   </url>
@@ -23,21 +83,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-09T13:28:57+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/paleo/</loc>
     <lastmod>2020-04-09T13:28:57+00:00</lastmod>
     <xhtml:link
@@ -49,36 +94,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/paleo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-04-09T13:28:57+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-09T13:28:57+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
                 />
   </url>
   
@@ -103,11 +118,6 @@
   </url>
   
   <url>
-    <loc>/tags/dulce/</loc>
-    <lastmod>2020-04-06T17:23:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/alfajores-de-maicena/</loc>
     <lastmod>2020-04-06T17:23:32+00:00</lastmod>
     <xhtml:link
@@ -125,11 +135,6 @@
   <url>
     <loc>/blog/pan-de-carne-vegetariano/</loc>
     <lastmod>2020-04-05T15:34:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tarta-pollo-brocoli/</loc>
-    <lastmod>2020-04-03T13:19:25+00:00</lastmod>
   </url>
   
   <url>
@@ -195,11 +200,6 @@
   <url>
     <loc>/blog/como-pelar-almendras/</loc>
     <lastmod>2020-03-29T15:45:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/florentinas/</loc>
-    <lastmod>2020-03-29T15:38:49+00:00</lastmod>
   </url>
   
   <url>
