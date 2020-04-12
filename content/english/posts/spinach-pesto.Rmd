@@ -1,0 +1,48 @@
+---
+title: "Spinach pesto"
+date: "`r Sys.time()`"
+image: images/blog/pesto-de-espinaca.png
+tags: ["vegetarian","vegan","keto"]
+---
+
+This spinach pesto is a version from the original pesto, using spinach instead of basil, and walnuts instead of pine nuts, to cook with ingredients we usually have more in hand. It is delicious as sauce for a pasta, to put on top of toast, or over different food such as chicken or veggie brochettes!
+
+
+#Ingredients
+
+- 4 cups chopped spinach
+
+- 1/4 cup toasted walnuts
+
+- 2 tbsp grated cheese
+
+- 1 or 2 garlic cloves
+
+- 1 tbsp lemon juice
+
+- 5 tbsp olive oil
+
+- 3 tbsp warm water
+
+- salt to taste
+
+- pepper to taste
+
+
+#Directions
+
+- Toast the walnuts in the oven at medium heat for 10-15 min.
+
+- Process all the ingredients except for the oil and water.
+
+- Add the oil and water in a couple of steps, blending in between.
+
+- If necessary, add more seasoning o more liquid.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B-44B6WHT8-")
+```

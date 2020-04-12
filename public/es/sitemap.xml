@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/keto/</loc>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/keto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/keto/"
+                />
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-04-12T09:41:57+00:00</lastmod>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +33,13 @@
   </url>
   
   <url>
+    <loc>/blog/pesto-de-espinaca/</loc>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2020-04-12T09:41:57+00:00</lastmod>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +50,31 @@
                 hreflang="es"
                 href="/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/vegano/</loc>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vegetariano/</loc>
+    <lastmod>2020-04-12T13:15:39+00:00</lastmod>
   </url>
   
   <url>
@@ -48,38 +93,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-12T09:41:56+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/blog/fideos-zucchini/</loc>
     <lastmod>2020-04-09T13:28:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/keto/</loc>
-    <lastmod>2020-04-09T13:28:57+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/keto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/keto/"
-                />
   </url>
   
   <url>
@@ -95,16 +110,6 @@
                 hreflang="es"
                 href="/tags/paleo/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tags/vegano/</loc>
-    <lastmod>2020-04-09T13:28:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vegetariano/</loc>
-    <lastmod>2020-04-09T13:28:57+00:00</lastmod>
   </url>
   
   <url>

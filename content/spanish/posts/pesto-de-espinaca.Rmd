@@ -1,0 +1,48 @@
+---
+title: "Pesto de espinaca"
+date: "`r Sys.time()`"
+image: images/blog/pesto-de-espinaca.png
+tags: ["vegetariano","vegano","keto"]
+---
+
+Este pesto de espinaca es una versión distinta del pesto original, usando espinaca en vez de albahaca y nueces en vez de piñones, para cocinar con cosas que solemos tener más a mano. Es riquísimo como salsa para una pasta, para untar una tostada o poner sobre distintas comidas como brochettesde pollo o verdura!
+
+
+#Ingredientes
+
+- 4 tazas de espinaca cortada chiquita
+
+- 1/4 taza de nueces tostadas
+
+- 2 cdas de queso rallado
+
+- 1 o 2 dientes de ajo
+
+- 1 cda de jugo de limón
+
+- 5 cdas de aceite de oliva
+
+- 3 cdas de agua caliente
+
+- sal c/n
+
+- pimienta c/n
+
+
+#Preparación
+
+- Tostá las nueces llevádolas a un horno medio por unos 10-15 min.
+
+- Procesá todos los ingredientes salvo el aceite y el agua.
+
+- Agregrá el aceite y el agua en un par de pasos, procesando en el medio.
+
+- Probá y si es necesario, corregí el condimento o agregá más líquido.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-44B6WHT8-")
+```

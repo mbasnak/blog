@@ -5,10 +5,37 @@
     <link>/en/tags/</link>
     <description>Recent content in Tags on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Apr 2020 09:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 13:15:37 +0000</lastBuildDate>
     
 	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>keto</title>
+      <link>/en/tags/keto/</link>
+      <pubDate>Sun, 12 Apr 2020 13:15:37 +0000</pubDate>
+      
+      <guid>/en/tags/keto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegan</title>
+      <link>/en/tags/vegan/</link>
+      <pubDate>Sun, 12 Apr 2020 13:15:37 +0000</pubDate>
+      
+      <guid>/en/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>/en/tags/vegetarian/</link>
+      <pubDate>Sun, 12 Apr 2020 13:15:37 +0000</pubDate>
+      
+      <guid>/en/tags/vegetarian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sweet</title>
@@ -20,38 +47,11 @@
     </item>
     
     <item>
-      <title>keto</title>
-      <link>/en/tags/keto/</link>
-      <pubDate>Thu, 09 Apr 2020 13:29:04 +0000</pubDate>
-      
-      <guid>/en/tags/keto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>paleo</title>
       <link>/en/tags/paleo/</link>
       <pubDate>Thu, 09 Apr 2020 13:29:04 +0000</pubDate>
       
       <guid>/en/tags/paleo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegan</title>
-      <link>/en/tags/vegan/</link>
-      <pubDate>Thu, 09 Apr 2020 13:29:04 +0000</pubDate>
-      
-      <guid>/en/tags/vegan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetarian</title>
-      <link>/en/tags/vegetarian/</link>
-      <pubDate>Thu, 09 Apr 2020 13:29:04 +0000</pubDate>
-      
-      <guid>/en/tags/vegetarian/</guid>
       <description></description>
     </item>
     

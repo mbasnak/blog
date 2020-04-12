@@ -1,24 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>vegetariano on Mel&#39;s kitchen</title>
-    <link>/en/tags/vegetariano/</link>
-    <description>Recent content in vegetariano on Mel&#39;s kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Apr 2020 12:40:06 +0000</lastBuildDate>
-    
-	<atom:link href="/en/tags/vegetariano/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Honey glazed carrots</title>
-      <link>/en/blog/honey-glazed-carrots/</link>
-      <pubDate>Thu, 02 Apr 2020 12:40:06 +0000</pubDate>
-      
-      <guid>/en/blog/honey-glazed-carrots/</guid>
-      <description>Ingredients4 carrots
-1 tbsp butter</description>
-    </item>
-    
-  </channel>
-</rss>
