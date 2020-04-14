@@ -5,10 +5,19 @@
     <link>/</link>
     <description>Recent content on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Apr 2020 18:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 13:10:05 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Manzanas asadas</title>
+      <link>/blog/manzanas-asadas/</link>
+      <pubDate>Tue, 14 Apr 2020 13:10:05 +0000</pubDate>
+      
+      <guid>/blog/manzanas-asadas/</guid>
+      <description>Estas manzanas asadas son ideales para cuando estás tentado de algo dulce pero no tenés demasiados ingredientes, o no tenés ganas de ponerte a cocinar un postre muy elaborado!</description>
+    </item>
     
     <item>
       <title>Tartitas de limón y coco</title>

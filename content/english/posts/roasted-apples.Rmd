@@ -1,0 +1,39 @@
+---
+title: "Roasted apples"
+date: "`r Sys.time()`"
+image: images/blog/manzana-asada.png
+tags: ["sweet"]
+---
+
+These roasted apples are ideal for when you're craving something sweet but don't have too many ingredients, or don't feel like cooking a very elaborated dish! I served them with toasted walnuts, but they are also delicious with ice cream or whipped cream (or all of the above).
+
+#Ingredients
+
+- granny smith apples (1 per persona)
+
+- 1 tbsp honey
+
+- cinnamon to taste
+
+- a splash of lemon juice
+
+- walnuts to taste
+
+
+#Directions
+
+- Cut the apples in halves and remove their heart.
+
+- Put on a oven dish and add lemon, cinamon and honey.
+
+- Cook in the oven at high heat for about 20 min.
+
+- Add the walut pieces, and cook for 10 more min.
+
+- Serve with more cinnamon and honey.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B--AQMepqup")
+```

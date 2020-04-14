@@ -1,0 +1,39 @@
+---
+title: "Manzanas asadas"
+date: "`r Sys.time()`"
+image: images/blog/manzana-asada.png
+tags: ["dulce"]
+---
+
+Estas manzanas asadas son ideales para cuando estás tentado de algo dulce pero no tenés demasiados ingredientes, o no tenés ganas de ponerte a cocinar un postre muy elaborado! Yo las serví con nueces asadas, pero también quedarían riquísimas con helado, o con crema batida.
+
+#Ingredientes
+
+- manzanas verdes (1 por persona)
+
+- 1 cda de miel
+
+- un poquito de canela
+
+- un chorrito de jugo de limón
+
+- nueces c/n
+
+
+#Preparación
+
+- Cortar las manzanas al medio y sacarles el corazón.
+
+- Poner sobre una fuente para horno, y agregarles el limón, la canela y la miel.
+
+- Asar a horno alto por unos 20 min.
+
+- Agregar las nueces en pedazos y volver al horno por unos 10 min.
+
+- Servir con más canela y miel.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B--AQMepqup")
+```
