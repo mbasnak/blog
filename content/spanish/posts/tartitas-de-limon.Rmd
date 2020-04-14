@@ -1,0 +1,55 @@
+---
+title: "Tartitas de limón y coco"
+date: "`r Sys.time()`"
+image: images/blog/tartita-de-limon.png
+tags: ["dulce"]
+---
+
+
+#Ingredientes
+
+##Para la masa
+- 60 gr de galletitas de vainilla
+
+- 40 gr de manteca
+
+- 2 cdas de coco rallado
+
+##Para el relleno
+
+- 1 y 1/2 limón
+
+- 1/4 taza azúcar
+
+- 1 huevo
+
+- 60 gr manteca
+
+
+#Preparación
+
+- Procesá las galletitas con la manteca y el coco.
+
+- Cubrí la base y las paredes de las tarteritas con la mezcla, presionando con una cuchara.
+
+- Llevá los moldes al freezer por unos 10 min, mientras se calienta el horno a fuego medio.
+
+- Cociná por unos 5 min.
+
+- Para el relleno, en un bowl a baño maría batí el huevo, el azúcar, el jugo del limón y medio, y ralladura de medio limón.
+
+- Agregá la manteca cortada en cubito y revolvé constantemente.
+
+- Una vez que la mezcla espese (5 min aprox) apagá el fuego.
+
+- Cubrí la base de las tartas con la mezcla de limón y llevar a la heladera.
+
+- Para decorarlas, les podés poner un poquito de azúcar impalpable, unas cascaritas de limón acarameladas o un poco del crumble de coco que usamos para la masa (si le ponés el crumble, llevalo al horno 2 min más para que se dore).
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B-8BdUPJ5JG")
+```
