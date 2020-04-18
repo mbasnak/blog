@@ -1,0 +1,45 @@
+---
+title: "Tomates caramelizados"
+date: "`r Sys.time()`"
+image: images/blog/tomates-caramelizados.png
+tags: ["vegetariano","vegano"]
+---
+
+Estos tomates caramelizados son riquísimos para comer como entrada, como parte de una picada o como guarnición. Son muy fáciles de hacer!
+
+
+#Ingredientes
+
+- 4 tomates
+
+- 4 dientes de ajo
+
+- 1 cda de azúcar negro
+
+- aceite de oliva c/n
+
+- sal c/n
+
+- pimienta c/n
+
+- 1 cdita de tomillo
+
+- 1 cdita de orégano
+
+
+#Preparación
+
+- Cortar los tomates en cuartos.
+
+- Picar los dientes de ajo.
+
+- Mezclar todos los ingredientes y volcar los tomates condimentados en una fuente para horno.
+
+- Cocinar en un horno fuerte por unos 15 min.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_IH-UJpfCy")
+```

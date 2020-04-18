@@ -1,0 +1,48 @@
+---
+title: "Creamy butternut squash soup"
+date: "`r Sys.time()`"
+image: images/blog/sopa-de-zapallo.png
+tags: ["vegetarian"]
+---
+
+I love soup, and this is my favorite! It is very simple, has very few ingredients. You will need a blender of some sort. You can make it vegan by skipping the cream (you can replace it with coconut milk).
+
+
+#Ingredients
+
+- 1.5 pounds butternut squash
+
+- 2 carrots
+
+- 1 vegetable bouillon cube
+
+- a splash of heavy cream
+
+- salt to taste
+
+- pepper to taste
+
+- nutmeg to taste
+
+
+
+#Directions
+
+- Peel the squash and carrots and cut them in pieces.
+
+- Cook the veggies in a pot with water and the bouillon cube.
+
+- When the veggies are soft, turn off the stove.
+
+- Put the veggies in a blender and add the stock gradually, blending in steps and adding the amount of liquid that gives you a texture you're happy with. I like it pretty thick so I don't add too much liquid, pero you can tune this to what you like.
+
+- Season with salt, pepper and nutmeg, and add a splash of heavy cream.
+
+- Serve with toasted seeds (either those of the squash or others).
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_Fya2rpygn")
+```

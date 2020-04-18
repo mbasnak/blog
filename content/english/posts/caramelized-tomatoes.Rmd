@@ -1,0 +1,44 @@
+---
+title: "Caramelized tomatoes"
+date: "`r Sys.time()`"
+image: images/blog/tomates-caramelizados.png
+tags: ["vegetarian","vegan"]
+---
+
+These tomatoes are delicious for breakfast, as an appetizer or as a side dish. They are super easy to make!
+
+#Ingredients
+
+- 4 tomatoes
+
+- 4 garlic cloves
+
+- 1 tbsp brown sugar
+
+- olive oil to taste
+
+- salt to taste
+
+- pepper to taste
+
+- 1 tsp thyme
+
+- 1 tsp oregano
+
+
+#Directions
+
+- Cut the tomatoes in four pieces.
+
+- Chop the garlic cloves.
+
+- Mix all the ingredients and put the seasoned tomatoes in an oven dish.
+
+- Cook at high heat in the oven for about 15 min.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_IH-UJpfCy")
+```
