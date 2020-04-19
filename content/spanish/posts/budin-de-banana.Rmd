@@ -1,0 +1,50 @@
+---
+title: "Budín de banana"
+date: "`r Sys.time()`"
+image: images/blog/budin-de-banana.jpg
+tags: ["dulce"]
+---
+
+Este budín de banana es riquísimo y súper fácil. Yo le pongo nueces y chocolate para que quede extra rico, pero podés no ponerle! Eso sí, si omitís el chocolate, agregale 1/4 taza extra de azúcar.
+
+
+#Ingredientes
+
+- 4 bananas maduras (si querés hacer el budín ya, y las bananas todavía no están maduras, llevalas con cáscara a un horno bajo por unos 15 min hasta que la cáscara esté negra, dejalas enfriar, y usalas!)
+
+- 110 gr de manteca
+
+- 1/2 taza de azúcar negro
+
+- 1 y 1/2 taza de harina 0000
+
+- 1/2 taza de nueces
+
+- 1/2 taza de chips o pedazos de chocolate semi-amargo
+
+- 1 cdita de bicarbonato de sodio
+
+- 2 huevos
+
+- 1 cdita esencia de vainilla
+
+
+
+#Preparación
+
+- Batí la manteca blanda con el azúcar.
+
+- Agregale las bananas pisadas, los huevos y la esencia de vainilla y mezclá todo.
+
+- En otro recipiente, mezclá la harina con el bicarbonato de sodio, las nueces picadas y el chocolate.
+
+- Uní las dos preparaciones.
+
+- Volcá en una budinera enmantecada y enharinada y llevá a un horno a 180 C por unos 50 min.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_KW7f3pB8y")
+```

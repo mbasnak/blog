@@ -1,0 +1,50 @@
+---
+title: "Banana bread"
+date: "`r Sys.time()`"
+image: images/blog/budin-de-banana.jpg
+tags: ["sweet"]
+---
+
+This banana bread is very tasty and easy to make. I add wlnuts and chocolate for it to be extra yummy, but you can skip them if you don't want to use them. If you decide to skip the chocolate, add an additional 1/4 cup of sugar.
+
+
+#Ingredients
+
+- 4 ripe bananas (if you want to make the bread now and your bananas aren't ripe, put them in the oven at low heat with their peel on for about 15 min until the peel is black, let them col and they're ready to use!)
+
+- 1 stick of butter
+
+- 1/2 cup brown sugar
+
+- 1 & 1/2 cups all purpose flour
+
+- 1/2 cup walnuts
+
+- 1/2 cup semi-sweet chocolate chips or chocolate pieces
+
+- 1 tsp baking soda
+
+- 2 eggs
+
+- 1 tsp vanilla extract
+
+
+
+#Directions
+
+- Whisk the soft butter with the sugar.
+
+- Add the mashed bananas, the eggs and the vanilla extract and combine.
+
+- In another bowl, mix the flour with the baking soda, the chopped walnuts and the chocolate.
+
+- Mix both preparations.
+
+- Pour in a greased and floured tin and cook at 350 F for about 50 min.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_KW7f3pB8y")
+```

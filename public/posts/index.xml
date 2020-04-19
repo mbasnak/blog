@@ -5,10 +5,19 @@
     <link>/posts/</link>
     <description>Recent content in Posts on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Apr 2020 11:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 08:44:59 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Budín de banana</title>
+      <link>/blog/budin-de-banana/</link>
+      <pubDate>Sun, 19 Apr 2020 08:44:59 +0000</pubDate>
+      
+      <guid>/blog/budin-de-banana/</guid>
+      <description>Este budín de banana es riquísimo y súper fácil.</description>
+    </item>
     
     <item>
       <title>Sopa crema de zapallo</title>
