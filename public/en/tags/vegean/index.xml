@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegean on Mel&#39;s kitchen</title>
+    <link>/en/tags/vegean/</link>
+    <description>Recent content in vegean on Mel&#39;s kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Apr 2020 15:53:48 +0000</lastBuildDate>
+    
+	<atom:link href="/en/tags/vegean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roasted chickpeas</title>
+      <link>/en/blog/roasted-chickpeas/</link>
+      <pubDate>Tue, 21 Apr 2020 15:53:48 +0000</pubDate>
+      
+      <guid>/en/blog/roasted-chickpeas/</guid>
+      <description>These roasted chickpeas with spices are delicious in salads, soups, in rice with veggies or as a snack!</description>
+    </item>
+    
+  </channel>
+</rss>

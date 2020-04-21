@@ -5,10 +5,28 @@
     <link>/en/tags/</link>
     <description>Recent content in Tags on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Apr 2020 08:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 15:53:48 +0000</lastBuildDate>
     
 	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>vegean</title>
+      <link>/en/tags/vegean/</link>
+      <pubDate>Tue, 21 Apr 2020 15:53:48 +0000</pubDate>
+      
+      <guid>/en/tags/vegean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>/en/tags/vegetarian/</link>
+      <pubDate>Tue, 21 Apr 2020 15:53:48 +0000</pubDate>
+      
+      <guid>/en/tags/vegetarian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sweet</title>
@@ -16,15 +34,6 @@
       <pubDate>Sun, 19 Apr 2020 08:44:58 +0000</pubDate>
       
       <guid>/en/tags/sweet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetarian</title>
-      <link>/en/tags/vegetarian/</link>
-      <pubDate>Sat, 18 Apr 2020 11:27:40 +0000</pubDate>
-      
-      <guid>/en/tags/vegetarian/</guid>
       <description></description>
     </item>
     

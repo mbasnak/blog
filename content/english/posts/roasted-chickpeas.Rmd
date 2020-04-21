@@ -1,0 +1,40 @@
+---
+title: "Roasted chickpeas"
+date: "`r Sys.time()`"
+image: images/blog/garbanzos-asados.jpg
+tags: ["vegetarian","vegean"]
+---
+
+These roasted chickpeas with spices are delicious in salads, soups, in rice with veggies or as a snack!
+
+#Ingredients
+
+- 1 can of chickpeas
+
+- 2 tbsp olive oil
+
+- 1 tsp cumin
+
+- 1 tsp paprika
+
+- 1 tsp turmeric
+
+- salt to taste
+
+- pepper to taste
+
+
+#Directions
+
+- Drain the can of chickpeas and pat them dry.
+
+- Add the seasoning and oil and combine everything together.
+
+- Cook in the oven at high heat for about 40 min or until they have a texture you're happy with.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_QGkQNpX-F")
+```

@@ -1,0 +1,41 @@
+---
+title: "Garbanzos asados"
+date: "`r Sys.time()`"
+image: images/blog/garbanzos-asados.jpg
+tags: ["vegetariano","vegeano"]
+---
+
+Estos garbanzos asados con especias son riquísimos para comer en una ensalsa, una sopa, un arroz con verdura, o como snack!
+
+
+#Ingredientes
+
+- 1 lata de garbanzos
+
+- 2 cdas de aceite de oliva
+
+- 1 cdita de comino
+
+- 1 cdita de pimentón
+
+- 1 cdita de cúrcuma
+
+- sal c/n
+
+- pimienta c/n
+
+
+#Preparación
+
+- Colá la lata de garbanzos y secalos bien.
+
+- Agregales los condimentos y el aceite y mezclalos bien.
+
+- Llevalos a un horno fuerte por unos 40 min o hasta que tengan la textura que te guste.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_QGkQNpX-F")
+```
