@@ -2,7 +2,7 @@
 title: "Garbanzos asados"
 date: "`r Sys.time()`"
 image: images/blog/garbanzos-asados.jpg
-tags: ["vegetariano","vegeano"]
+tags: ["vegetariano","vegano"]
 ---
 
 Estos garbanzos asados con especias son riquísimos para comer en una ensalsa, una sopa, un arroz con verdura, o como snack!

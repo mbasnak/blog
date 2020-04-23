@@ -1,0 +1,52 @@
+---
+title: "Potato and leek soup"
+date: "`r Sys.time()`"
+image: images/blog/sopa-papa-puerro.png
+tags: ["vegetarian","vegan"]
+---
+
+
+
+#Ingredients
+
+- 2 small to medium potatoes
+
+- 1 big leek
+
+- 1 onion
+
+- 2 garlic cloves
+
+- 1 vegetable bouillon cube
+
+- 1/4 cup grated cheese
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+
+#Directions
+
+- Mince the garlic and onion. Saute in olive oil with salt and pepper for 2 min.
+
+- Chop the leek. Save some of the green part at the end to use later, and add the rest to the onion. cook for about 5 more min.
+
+- Add the potatoes cut in small cubes, the bouillon cube, and cover with water.
+
+- Cook until the potatoes are soft and turn off the stove.
+
+- Add the grated cheese and, if necessary, more seasoning.
+
+- Chop the remaining leek very thinly, and saute in olive oil.
+
+- Serve the soup as it is or blend it to turn it into a creamy soup. Serve with the sauteed leek on top.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_SjXpPp7Ji")
+```

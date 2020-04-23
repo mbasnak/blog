@@ -5,10 +5,19 @@
     <link>/en/posts/</link>
     <description>Recent content in Posts on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Apr 2020 15:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 09:31:21 +0000</lastBuildDate>
     
 	<atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Potato and leek soup</title>
+      <link>/en/blog/potato-leek-soup/</link>
+      <pubDate>Thu, 23 Apr 2020 09:31:21 +0000</pubDate>
+      
+      <guid>/en/blog/potato-leek-soup/</guid>
+      <description>Ingredients2 small to medium potatoes</description>
+    </item>
     
     <item>
       <title>Roasted chickpeas</title>

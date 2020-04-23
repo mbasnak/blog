@@ -1,0 +1,53 @@
+---
+title: "Sopa de papa y puerro"
+date: "`r Sys.time()`"
+image: images/blog/sopa-papa-puerro.png
+tags: ["vegetariano","vegano"]
+---
+
+
+
+#Ingredientes
+
+- 2 papas chicas a medianas
+
+- 1 puerro grande
+
+- 1 cebolla
+
+- 2 dientes de ajo
+
+- 1 caldito de verdura
+
+- 1/4 taza de queso rallado
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+
+#Preparación
+
+- Picar el ajo y la cebolla. Saltear en aceite de oliva con sal y pimienta por 2 min.
+
+- Picar el puerro. Reservar la parte más verde para usar después, y agregale el resto a la cebolla. Cocinar por unos 5 min más.
+
+- Agregar las papas cortadas en cubos chicos, el caldito de verdura y cubrir con agua.
+
+- Cocinar hasta que las papas estén blandas y apagar el fuego.
+
+- Agregarle el queso rallado y, si hace falta, condimentar más.
+
+- Picar el puerro que quedó bien finito y saltear en aceite de oliva.
+
+- Servir la sopa como está o procesarla para hacerla sopa crema. Agregarle el puerro salteado por encima.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_SjXpPp7Ji")
+```
