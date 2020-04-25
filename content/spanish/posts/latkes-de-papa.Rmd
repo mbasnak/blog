@@ -1,0 +1,42 @@
+---
+title: "Latkes de papa"
+date: "`r Sys.time()`"
+image: images/blog/latkes-de-papa.jpg
+tags: ["vegetariano"]
+---
+
+
+
+#Ingredientes
+
+- 4 papas chicas (650 gr aprox)
+
+- 1 huevo
+
+- 4 cdas de harina
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite c/n
+
+
+#Preparación
+
+- Rallar las papas.
+
+- Agregarle el huevo, la harina, el condimento y mezclar bien.
+
+- Formar discos con la mano y ponerlos en una fuente para horno con un papel aluminio y un poquito de aceite.
+
+- Cocinar en un horno fuerte por unos 10 min, dar vuelta y cocinar 10 min del otro lado.
+
+- Yo los serví con un dip de 2 cdas de mayonesa, 1 cdita de mostaza, medio diente de ajo picado y un poquito de romero.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_agDVZpjfB")
+```

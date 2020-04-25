@@ -1,0 +1,57 @@
+---
+title: "Red lentil curry"
+date: "`r Sys.time()`"
+image: images/blog/curry-de-lentejas.png
+tags: ["vegetarian","vegan"]
+---
+
+We had some leftover cooked sweet potatoes and I decided to use them for this curry. It is great because they coe apart and create an awesome texture!
+
+
+#Ingredients
+
+- 1/2 red onion
+
+- 0.7 pounds cooked sweet potato
+
+- 1 can tomato sauce
+
+- 1 garlic clove
+
+- 1 cup red lentils
+
+- 1 tsp cumin
+
+- 1 tsp turmeric
+ 
+- 1 tsp garam masala
+
+- 1/2 cup frozen sweet peas
+
+- 1 inch ginger
+
+- 2 cups water
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+
+#Directions
+
+- Mince the garlic, ginger and onion. Saite in olive oil with salt and pepper for about 3-4 min.
+
+- Add 1 tsp cumin, 1 tsp turmeric and 1 tsp garam masala and cook 1 more min.
+
+- Add the red lentils, tomato sauce, cooked sweet potatoes and water.
+
+- Cocinar por unos 20 min (un poco más si son lentejas comunes). Agregar 1/2 taza de arvejas congeladas y cocinar 5 min mas.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_VY01fHNJf")
+```

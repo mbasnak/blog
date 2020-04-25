@@ -1,0 +1,58 @@
+---
+title: "Guiso/curry de lentejas"
+date: "`r Sys.time()`"
+image: images/blog/curry-de-lentejas.png
+tags: ["vegetariano","vegano"]
+---
+
+
+Nos sobraban unas batatas cocidas y decidí usarlas para este guiso/curry de lentejas. Queda genial porque se deshacen y le dan una textura buenísima!
+
+
+#Ingredientes
+
+- 1/2 cebolla morada
+
+- 300 gr de batata cocida
+
+- 1 lata de salsa de tomate
+
+- 1 diente de ajo
+
+- 1 taza de lentejas rojas
+
+- 1 cdita comino
+
+- 1 cdita curcuma
+ 
+- 1 cdita garam masala
+
+- 1/2 taza de arvejas congeladas
+
+- 1 pulgar de jengibre
+
+- 2 tazas de agua
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+
+#Preparación
+
+- Picar el ajo, el jengibre y la cebolla. Saltear en aceite de oliva con sal y pimienta por unos 3-4 min.
+
+- Agregar 1 cdita de comino, 1 cdita de cúrcuma y 1 cdita de garam masala (ponele curry si no conseguís) y cocinar 1 min mas.
+
+- Agregar 1 taza de lentejas rojas (pueden ser comunes, pero que esten remojadas previamente), 1 lata de salsa de tomate, 300 gr de batata cocida cortada en cubos y 2 tazas de agua.
+
+- Cocinar por unos 20 min (un poco más si son lentejas comunes). Agregar 1/2 taza de arvejas congeladas y cocinar 5 min mas.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_VY01fHNJf")
+```

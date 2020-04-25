@@ -4,7 +4,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-04-23T09:31:21+00:00</lastmod>
+    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-04-23T09:31:21+00:00</lastmod>
+    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,13 +33,13 @@
   </url>
   
   <url>
-    <loc>/en/blog/potato-leek-soup/</loc>
-    <lastmod>2020-04-23T09:31:21+00:00</lastmod>
+    <loc>/en/blog/red-lentil-curry/</loc>
+    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/tags/</loc>
-    <lastmod>2020-04-23T09:31:21+00:00</lastmod>
+    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -54,11 +54,21 @@
   
   <url>
     <loc>/en/tags/vegan/</loc>
-    <lastmod>2020-04-23T09:31:21+00:00</lastmod>
+    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/tags/vegetarian/</loc>
+    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/potato-latkes/</loc>
+    <lastmod>2020-04-25T16:21:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/potato-leek-soup/</loc>
     <lastmod>2020-04-23T09:31:21+00:00</lastmod>
   </url>
   
