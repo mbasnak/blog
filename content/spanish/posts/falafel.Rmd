@@ -1,0 +1,54 @@
+---
+title: "Falafel"
+date: "`r Sys.time()`"
+image: images/blog/falafel.png
+
+---
+
+Esta receta rinde unos 15 falafel. La parte más importante es que uses garbanzos secos!
+
+
+#Ingredientes
+
+- 225 gr de garbanzos secos
+
+- 1/2 cebolla
+
+- 2 dientes de ajo
+
+- 1 cda de harina
+
+- 1 cdita de comino
+
+- 1 cdita de sal
+
+- pimienta c/n
+
+- 1/3 taza de perejil picado
+
+- 1/3 taza de cilantro picado
+
+
+#Preparación
+
+- Dejá en remojo 225 gr de garbanzos toda la noche con mucha agua.
+
+- Al día siguiente, colalos y enjuagalos.
+
+- Ponelos en una procesadora con la cebolla, el ajo, la harina, el comino, la sal, la pimienta, el perjeil y el cilantro picados.
+
+- Procesalo bien, pero que no quede líquido, que tenga textura.
+
+- Guardá la mezcla en la heladera por 2 h o en el freezer por 30 min.
+
+- Dales forma y cociná a horno medio-fuerte en una fuente con un poquito de aceite por unos 25 min, dándolos vuelta a la mitad del tiempo.
+
+- Para hacerlos al horno hacelos así chatitos. Si los querés freir podés hacer bolitas.
+
+- Yo los serví con un dip de queso crema, leche, curry y ajo en polvo, y uno de mayonesa, mostaza, limón y aceite de oliva.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_kpX2yp69Q")
+```

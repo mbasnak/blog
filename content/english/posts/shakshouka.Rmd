@@ -1,0 +1,58 @@
+---
+title: "Shakshouka"
+date: "`r Sys.time()`"
+image: images/blog/shakshouka.png
+
+---
+
+
+#Ingredients
+
+- 1 onion
+
+- 1/2 red bell pepper
+
+- 2 tomatoes
+
+- olive oil to taste
+
+- salt to taste
+
+- pepper to taste
+
+- 2 garlic cloves
+
+- 2 tsp paprika
+
+- crushed red pepper to taste
+
+- 1 tsp cumin
+
+- 1 can cubed tomato
+
+- 3 eggs
+
+- cilantro to taste
+
+- parsley to taste
+
+
+#Directions
+
+- Saute the chopped onion, red bell pepper and tomatoes in olive oil with salt and pepper. Cook for about 15 min.
+
+- Add the minced garlic, paprika, some crushed red pepper and cumin. Cook 1 more min.
+
+- Add the can of cubed tomato. Cook 5-10 more min.
+
+- Add 3 raw eggs, cover the pot or pan and cook until the egg white is white (about 4 min).
+
+- Serve with chopped cilantro and parsley.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_iA6Hopqik")
+```

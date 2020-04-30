@@ -1,0 +1,62 @@
+---
+title: "Coliflor tikka masala"
+date: "`r Sys.time()`"
+image: images/blog/coliflor-tikka-masala.jpg
+tags: ["vegetariano"]
+---
+
+
+
+#Ingredientes
+
+- 1/2 cabeza de coliflor
+
+- 2 cditas cúrcuma
+
+- 2 cditas comino
+
+- 2 cditas garam masala
+
+- sal c/n
+
+- pimienta c/n
+
+- 2 cdas aceite de oliva + un poquito para saltear
+
+- 2 dientes de ajo
+
+- 1/2 cebolla
+
+- 1/2 morrón rojo
+
+- 2 cm jengibre
+
+- 2/3 lata salsa de tomate
+
+- 1 taza crema de leche
+
+#Preparación
+
+- Cortá media cabeza de coliflor en pedazos medianos.
+
+- Mezclalo con 1 cdita de cúrcuma, 1 cdita de comino, 1 cdita de pimentón, 1 cdita de garam masala, sal, pimienta y 2 cdas de aceite de oliva.
+
+- Ponelo en una fuente para horno y cociná a fuego fuerte por unos 25 min.
+
+- Mientras tanto, en una olla con aceite de oliva salteá el ajo, la cebolla, el morrón rojo y el jengibre picados, con sal y pimienta, unos 3 min.
+
+- Agregale los mismos condimentos que le pusiste al coliflor en las mismas cantidades y doralo 1 min más.
+
+- Agregale la salsa de tomate y la crema de leche.
+
+- Cociná 5 min más. Cuando el coliflor esté listo, volcalo en la olla con salsa.
+
+- Serví con arroz blanco y [naan con ajo](/blog/naan-con-ajo/)
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_c8NSFJjCc")
+```

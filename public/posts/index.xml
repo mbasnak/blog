@@ -5,10 +5,47 @@
     <link>/posts/</link>
     <description>Recent content in Posts on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Apr 2020 16:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 09:44:10 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Falafel</title>
+      <link>/blog/falafel/</link>
+      <pubDate>Thu, 30 Apr 2020 09:44:10 +0000</pubDate>
+      
+      <guid>/blog/falafel/</guid>
+      <description>Esta receta rinde unos 15 falafel. La parte más importante es que uses garbanzos secos!</description>
+    </item>
+    
+    <item>
+      <title>Shakshouka</title>
+      <link>/blog/shakshouka/</link>
+      <pubDate>Thu, 30 Apr 2020 09:19:10 +0000</pubDate>
+      
+      <guid>/blog/shakshouka/</guid>
+      <description>Ingredientes1 cebolla
+1/2 morrón</description>
+    </item>
+    
+    <item>
+      <title>Naan con ajo</title>
+      <link>/blog/naan-con-ajo/</link>
+      <pubDate>Thu, 30 Apr 2020 08:49:53 +0000</pubDate>
+      
+      <guid>/blog/naan-con-ajo/</guid>
+      <description>Disfrutá de esta versión súper rápida y fácil de naan con ajo!</description>
+    </item>
+    
+    <item>
+      <title>Coliflor tikka masala</title>
+      <link>/blog/coliflor-tikka-masala/</link>
+      <pubDate>Thu, 30 Apr 2020 08:49:52 +0000</pubDate>
+      
+      <guid>/blog/coliflor-tikka-masala/</guid>
+      <description>Ingredientes1/2 cabeza de coliflor</description>
+    </item>
     
     <item>
       <title>Latkes de papa</title>

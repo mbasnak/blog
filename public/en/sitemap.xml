@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/blog/falafel/</loc>
+    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/falafel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/falafel/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/</loc>
-    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
+    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +34,7 @@
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
+    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,13 +48,33 @@
   </url>
   
   <url>
-    <loc>/en/blog/red-lentil-curry/</loc>
-    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
+    <loc>/en/blog/shakshouka/</loc>
+    <lastmod>2020-04-30T09:23:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/shakshouka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/shakshouka/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/garlic-naan/</loc>
+    <lastmod>2020-04-30T08:56:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/roasted-pepper-hummus/</loc>
+    <lastmod>2020-04-30T08:49:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/tags/</loc>
-    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
+    <lastmod>2020-04-30T08:49:51+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -54,11 +89,21 @@
   
   <url>
     <loc>/en/tags/vegan/</loc>
-    <lastmod>2020-04-25T16:21:51+00:00</lastmod>
+    <lastmod>2020-04-30T08:49:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/tags/vegetarian/</loc>
+    <lastmod>2020-04-30T08:49:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/cauliflower-tikka-masala/</loc>
+    <lastmod>2020-04-30T08:49:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/red-lentil-curry/</loc>
     <lastmod>2020-04-25T16:21:51+00:00</lastmod>
   </url>
   
@@ -245,11 +290,6 @@
                 hreflang="en"
                 href="/en/tags/tip/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/blog/roasted-pepper-hummus/</loc>
-    <lastmod>2020-03-29T16:10:20+00:00</lastmod>
   </url>
   
   <url>

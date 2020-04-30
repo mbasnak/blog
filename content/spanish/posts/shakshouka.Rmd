@@ -1,0 +1,58 @@
+---
+title: "Shakshouka"
+date: "`r Sys.time()`"
+image: images/blog/shakshouka.png
+
+---
+
+
+#Ingredientes
+
+- 1 cebolla
+
+- 1/2 morrón
+
+- 2 tomates
+
+- aceite de oliva c/n
+
+- sal c/n
+
+- pimienta c/n
+
+- 2 dientes de ajo
+
+- 2 cditas de pimentón
+
+- ají molido c/n
+
+- 1 cdita de comino
+
+- 1 lata de tomate cubeteado
+
+- 3 huevos
+
+- cilantro c/n
+
+- perejil c/n
+
+
+#Preparación
+
+- Salteá la cebolla, el morrón y los tomates picados en aceite de oliva con sal y pimienta. Cociná por unos 15 min.
+
+- Agregale el ajo picado, pimenton, un poquito de aji molido y el comino. Cociná 1 min mas.
+
+- Agregale la lata de tomate cubeteado. Cociná 5-10 min más.
+
+- Agregale 3 huevos crudos, tapá la sartén u olla y cociná hasta que la clara se vea blanca (5 min aprox).
+
+- Serví con cilantro y perejil picados.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_iA6Hopqik")
+```

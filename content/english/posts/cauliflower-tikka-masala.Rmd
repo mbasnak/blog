@@ -1,0 +1,61 @@
+---
+title: "Coliflower tikka masala"
+date: "`r Sys.time()`"
+image: images/blog/coliflor-tikka-masala.jpg
+tags: ["vegetarian"]
+---
+
+
+#Ingredients
+
+- 1/2 head cauliflower
+
+- 2 tsp turmeric
+
+- 2 tsp cumin
+
+- 2 tsp garam masala
+
+- salt to taste
+
+- pepper to taste
+
+- 2 tbsp olive oil + some more to saute
+
+- 2 garlic cloves
+
+- 1/2 onion
+
+- 1/2 red bell pepper
+
+- 2 cm ginger
+
+- 2/3 can tomato sauce
+
+- 1 cup heavy cream
+
+#Directions
+
+- Cut the cauliflower in florets.
+
+- Mix with 1 tsp turmeric, 1 tsp paprika, 1 tsp garam masala, salt, pepper and 2 tbsp olive oil.
+
+- Put in an oven dish and cook at high heat for about 25 min.
+
+- In the meantime, in a pot with olive oil, saute the chopped garlic, onion, red pepper and ginger, with salt and pepper, for about 3 min.
+
+- Add the same seasoning you added to the cauliflower, in the same amounts, y cook 1 more min.
+
+- Acc the tomato sauce and heave cream and cook a few min.
+
+- When the cauliflower is done, pour it in the pot with sauce.
+
+- Serve with white rice and [garlic naan](/en/blog/garlic-naan/).
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_c8NSFJjCc")
+```

@@ -1,0 +1,53 @@
+---
+title: "Naan con ajo"
+date: "`r Sys.time()`"
+image: images/blog/garlic-naan.png
+
+---
+
+Disfrutá de esta versión súper rápida y fácil de naan con ajo! (o sin ajo si preferís). Esta receta rinde 4 naans gorditos o 6 finitos.
+
+#Ingredientes
+
+- 1 y 1/2 taza de harina 0000
+
+- 2 cditas de azúcar
+
+- 1 cda de aceite
+
+- 1/4 a 1/3 taza de leche
+
+- 1/2 cdita de polvo de hornear
+
+- 1/2 cdita de sal
+
+- 2 dientes de ajo
+
+- 2 cdas de manteca
+
+
+#Preparación
+
+- Mezclá la harina, el polvo de hornear y la sal.
+
+- Hacé un pozo en el medio de la mezcla de secos y agregá el aceite y la leche.
+
+- Amasá hasta lograr un bollo homogéneo, agregando harina si hace falta.
+
+- Dejá descansar 10 min.
+
+- Dividí la masa y estirá del grosor deseado.
+
+- En una sartén bien caliente con un chorrito de aceite, poné el pan y cociná aprox 1 min de cada lado, o hasta que tome color.
+
+- Picá el ajo, mezclá con la manteca y calentá en el microondas hasta que se derrita la manteca.
+
+- Serví el pan con la mezcla de ajo y manteca por encima (a mí me gusta con el ajo crudo, pero podés dorarlo antes si preferís). 
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_fZywepVgD")
+```
