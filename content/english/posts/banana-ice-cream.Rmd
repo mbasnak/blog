@@ -1,0 +1,49 @@
+---
+title: "Banana chocolate ice-cream"
+date: "`r Sys.time()`"
+image: images/blog/helado-banana.png
+
+---
+
+
+#Ingredients
+
+- 250 gr heavy cream
+
+- 2 eggs
+
+- 2.5 oz sugar
+
+- 1 tsp vanilla extract
+
+- 3 ripe bananas
+
+- 1 or 2 handfulls of chocolate chips or chopped chocolate
+
+- water to taste
+
+
+
+#Directions
+
+- Whisk the cream until it gets firm, but not so firm that you can turn the bowl over your head.
+
+- Add the ripe mashed bananas, the vanilla extract, and the chocolate.
+
+- In a small pot, make a siroup heating the sugar with some water (enough water to barely cover the sugar) until the sugar disolves and the liquid starts making medium size bubbles.
+
+- While the siroup is heating, whisk the eggs (ideally with a machine) until they make a thick and foamy mix.
+
+- Pour the hot siroup gradually over the eggs and keep whisking the mix util the bowl is cold.
+
+- Add this mix to the banana cream mix.
+
+- Freeze for at least 7 h.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_qh-gJps0Q")
+```

@@ -5,10 +5,19 @@
     <link>/posts/</link>
     <description>Recent content in Posts on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Apr 2020 09:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 19:04:04 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Helado de banana con chocolate</title>
+      <link>/blog/helado-de-banana/</link>
+      <pubDate>Sat, 02 May 2020 19:04:04 +0000</pubDate>
+      
+      <guid>/blog/helado-de-banana/</guid>
+      <description>Ingredientes250 gr de crema de leche</description>
+    </item>
     
     <item>
       <title>Falafel</title>

@@ -1,0 +1,53 @@
+---
+title: "Helado de banana con chocolate"
+date: "`r Sys.time()`"
+image: images/blog/helado-banana.png
+
+---
+
+
+#Ingredientes
+
+- 250 gr de crema de leche
+
+- 2 huevos
+
+- 70 gr de azucar
+
+- 1 cdita esencia de vainilla
+
+- 3 bananas maduras
+
+- 1 o 2 puñados de chips de chocolate o chocolate picado 
+
+- agua c/n
+
+- dulce de leche c/n (si querés hacerlo de banana split)
+
+
+
+#Preparación
+
+- Batí la crema de leche hasta que se ponga más firme, pero no tan firme como crema chantilly (esto se llama punto medio).
+
+- Agregale 3 bananas bien maduras pisadas, 1 cdita de esencia de vainilla, y uno o dos puñados de chocolate picado.
+
+- En una ollita, hacé un almíbar calentando el azúcar con un poquito de agua (la suficiente para cubrir el azúcar) hasta que se disuelva enl azúcar y el líquido empiece a formar burbujas medianas.
+
+- Mientras se está haciendo el almíbar, batir los huevos hasta que formen una mezcla espesa y espumosa (a punto letra para los aficionados).
+
+- Volcar el almíbar caliente de a poco sobre los huevos y seguir batiendo la mezcla hasta que el bowl esté frío.
+
+- Agregar esta mezcla al bowl de crema de banana con movimientos envolventes.
+
+- Si tenés dulce de leche, este es el momento de agregarle unas cucharadas y hacer un delicioso helado de banana split!
+
+- Llevar al freezer al menos 7 hs.
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_qh-gJps0Q")
+```

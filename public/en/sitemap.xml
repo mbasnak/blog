@@ -3,23 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/blog/falafel/</loc>
-    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/falafel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/falafel/"
-                />
+    <loc>/en/blog/banana-ice-cream/</loc>
+    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
+    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -34,7 +24,7 @@
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
+    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -44,6 +34,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/falafel/</loc>
+    <lastmod>2020-04-30T09:43:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/falafel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/falafel/"
                 />
   </url>
   

@@ -5,10 +5,19 @@
     <link>/en/</link>
     <description>Recent content on Mel&#39;s kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Apr 2020 09:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 19:04:03 +0000</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Banana chocolate ice-cream</title>
+      <link>/en/blog/banana-ice-cream/</link>
+      <pubDate>Sat, 02 May 2020 19:04:03 +0000</pubDate>
+      
+      <guid>/en/blog/banana-ice-cream/</guid>
+      <description>Ingredients250 gr heavy cream</description>
+    </item>
     
     <item>
       <title>Falafel</title>
