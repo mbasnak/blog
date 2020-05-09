@@ -1,0 +1,44 @@
+---
+title: "Albóndigas de pollo"
+date: "`r Sys.time()`"
+image: images/blog/albondigas-de-pollo.png
+---
+
+
+#Ingredientes
+
+- 1 suprema de pollo grande
+
+- 2 cdas de queso crema
+
+- 1/2 taza de pan rallado
+
+- 1 huevo
+
+- 2 cditas de ajo en polvo
+
+- 2 cditas de pimentón
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite c/n
+
+
+#Preparación
+
+- Procesá 1 suprema de pollo bien grande con 2 cdas de queso crema, 1/2 taza de pan rallado, 1 huevo, 2 cditas de ajo en polvo, 2 cditas de pimentón, sal y pimienta.
+
+- Hacé albondigas con la mezcla.
+
+- Cociná en una sartén con un poquito de aceite. Primero cocinalas un par de minutos de cada lado a fuego fuerte para que se doren, después bajá el fuego, tapá la sartén y cociná unos 4 min más.
+
+- Yo las serví con 3 dips. Uno con mayonesa, mostaza, aceite de oliva y jugo de limón. Otro era una salsa de tomate hecha con puré de tomate, cebolla, azúcar negro, orégano, sal y pimienta. Por último una mostaza con miel.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_-XsB8pxgd")
+```

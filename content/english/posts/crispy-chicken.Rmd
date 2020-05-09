@@ -1,0 +1,47 @@
+---
+title: "Crispy chicken with oats"
+date: "`r Sys.time()`"
+image: images/blog/pollo-crocante.png
+
+---
+
+Make this crispy chicken without breadcrumbs or egg!
+
+#Ingredients
+
+- 2 chicken breasts
+
+- 3 tbsp mustard
+
+- 1 and 1/2 tsp garlic powder or minced garlic
+
+- 2 tbsp olive oil
+
+- 1/2 cup oats
+
+- 1 and 1/2 tsp paprika
+
+- salt to taste
+
+- pepper to taste
+
+
+
+#Directions
+
+- Make a paste mixing the mustard, garlic, olive oil, salt and pepper.
+
+- Cover the chicken breasts (cut in smaller pieces if they're too big) with the paste.
+
+- Grind the oats and the paprika.
+
+- Roll the chicken breasts on the oat mix.
+
+- Cook at medium heat in the oven until they're very golden (you can fry them if you prefer).
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_sdxjbpoIQ")
+```

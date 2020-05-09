@@ -1,0 +1,28 @@
+---
+title: "Chese crisps"
+date: "`r Sys.time()`"
+image: images/blog/crocante-de-queso.png
+tags: ["vegetarian","keto"]
+---
+
+Who doesn't love cheese? This recipe is pure cheese and super easy if you want to try a different snack!
+
+#Ingredients
+
+- Your favorite cheese (I used mozzarella), grated
+
+- Add ons like seeds, pieces of ham, pieces of caramelized onion,...
+
+
+#Directions
+
+- Make small mounts of your favorite grated cheese on an oven dish with parchment paper (or aluminum foil with some olive oil) and cook at medium heat for 6-7 min.
+
+- Before you cook them, you can seems, ham or any other thing you like and you will get delicious cheese crisps as a snack.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_5MtqIpfoh")
+```

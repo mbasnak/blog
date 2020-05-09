@@ -1,0 +1,43 @@
+---
+title: "Bombones de coco y leche condensada"
+date: "`r Sys.time()`"
+image: images/blog/bombones-de-coco.png
+
+---
+
+Aprendé a hacer bombones súper fácil usando una cubetera! Esta receta rinde 9 bombones grandes.
+
+#Ingredientes
+
+- 2 puñados de chips de chocolate o chocolate picado
+
+- 60 gr leche condensada
+
+- 60 gr de coco rallado
+
+
+
+#Preparación
+
+- Derretí el chocolate a baño maría.
+
+- Cubrí una cubetera con el chocolate, dándola vuelta para sacar el excedente.
+
+- Mezclá la leche condensada con el coco rallado, y agrega un poquito de la mezcla en cada cubetera, por encima de la capa de chocolate.
+
+- Cubrí con más chocolate derretido hasta tapar el relleno.
+
+- Llevar a la heladera hasta que se endurezca.
+
+- Yo usé una cubetera de silicona así que fue fácil sacarlos. Si no tenés de silicona, ponele un poquito de aceite neutro a la cubetera.
+
+- Probá con distintos rellenos! Son geniales con dulce de leche, frutos secos, chocolate blanco, y muchas cosas más.
+
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_yZ8XwpdSo")
+```

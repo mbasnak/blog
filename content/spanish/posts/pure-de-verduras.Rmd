@@ -1,0 +1,73 @@
+---
+title: "Puré de verduras"
+date: "`r Sys.time()`"
+image: images/blog/pure-de-verduras.png
+tags: ["vegetariano"]
+---
+
+Se puede hacer puré con casi cualquier verdura, así que empezá a probar que quedan riquísimos. Acá van mis recetas para hacer puré de zanahoria y puré de berenjena.
+
+#Ingredientes
+
+##Puré de zanahorias
+
+- 8 zanahorias medianas
+
+- 1 cebolla
+
+- 2 cdas de miel
+
+- 1/3 taza de leche
+
+- romero c/n
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+## Puré de berenjenas
+
+- 1 berenjena grane
+
+- 1 diente de ajo
+
+- 1 cdita de orégano
+
+- 1/2 cdita de comino
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+- un chorrito de jugo de limón
+
+
+#Preparación
+
+##Puré de zanahorias
+
+- Cortá las zanahorias y ponelas en una fuente para horno con la cebolla cortada en semi aros, 2 cdas de miel, sal, pimienta, romero y aceite de oliva.
+
+- Cocinalo a fuego medio-alto por unos 40 min.
+
+- Procesá con la leche, y si hace falta agregale codimento.
+
+##Puré de benejenas
+
+- Cortá una berenjena grande al medio, ponele sal, y poné las dos mitades boca abajo en una fuente para horno con aceite de oliva.
+
+- Cociná a fuego medio-alto por unos 40 min.
+
+- Sacá la pulpa de las berenjenas y agregale 1 diente de ajo picado bien finito, 1 cdita de orégano, 1/2 cdita de comino, sal, pimienta y un chorrito de jugo de limón.
+También queda riquísimo untado en una tostada!
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_7xl1YpCiY")
+```

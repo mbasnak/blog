@@ -1,0 +1,44 @@
+---
+title: "Chicken meatballs"
+date: "`r Sys.time()`"
+image: images/blog/albondigas-de-pollo.png
+---
+
+
+#Ingredients
+
+- 1 large chicken breast
+
+- 2 tbsp cream cheese
+
+- 1/2 cup breadcrumbs
+
+- 1 egg
+
+- 2 tsp garlic powder
+
+- 2 tsp paprika
+
+- salt to taste
+
+- pepper to taste
+
+- vegetable oil to taste
+
+
+#Directions
+
+- Process 1 chicken breast with the cream cheese, egg, breadcrumbs, garlic powder, paprika, salt and pepper.
+
+- Shape meatballs with the mix.
+
+- Cook in a pan with some oil. First cook them a few min on each side at high heat until they're golden, then lower the heat, cover the pan and cook about 4 more min.
+
+- I served them with 3 dips. One with mayo, mustard, olive oil and lemon. The second one was a tomato sauce made with tomato, onion, oregano, brown sugar, salt and pepper. The third one was honey mustard.
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_-XsB8pxgd")
+```

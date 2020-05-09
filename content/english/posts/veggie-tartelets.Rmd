@@ -1,0 +1,76 @@
+---
+title: "Veggie tartlets"
+date: "`r Sys.time()`"
+image: images/blog/tartitas-de-verdura.png
+
+---
+
+
+#Ingredients
+
+##For the pastry
+
+- 2 cups all purpose flour
+
+- 1 tsp salt
+
+- 2 tsp thyme
+
+- 1/2 cup water
+
+- 1/2 cup vegetable oil
+
+##For the filling
+
+- 1 onion
+
+- 1 red bell pepper
+
+- 1/2 small broccoli head
+
+- 1 zucchini
+
+- 2 big cremini mushrooms
+
+- 2 handfulls grated mozzarella
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+##For the binding mix
+
+- 3 eggs
+
+- 2 tbsp heavy cream
+
+- salt to taste
+
+- pepper to taste
+
+
+#Directions
+
+- For the pastry, combine all the ingredients.
+
+- Knead until you get a homogeneous dough and leave it aside.
+
+- For the filling, cut the onion and red pepper and saute in olive oil a few min.
+
+- Add the chopped broccoli and cook a few more min.
+
+- Add the chopped zucchini and sliced mushrooms. Season with salt and pepper and cook until the broccoli is done.
+
+- Roll the dough. You can make 1 individual big quiche or 4 small ones. I didn't have a tin for making small tartlets, so I shaped the pastry in a way that would contain the filling.
+
+- Fill the tartlets with the veggies, add the grated mozzarella and a few tbsp of the binding mix.
+
+- Cook at medium heat for about 30 min.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_2vaPLJAR4")
+```

@@ -1,0 +1,47 @@
+---
+title: "Pollo crocante con avena"
+date: "`r Sys.time()`"
+image: images/blog/pollo-crocante.png
+
+---
+
+Hacé este pollo crocante distinto, sin pan rallado ni huevo!
+
+#Ingredientes
+
+- 2 supremas de pollo
+
+- 3 cdas de mostaza
+
+- 1 cdita y 1/2 de ajo en polvo o ajo picado
+
+- 2 cdas de aceite de oliva
+
+- 1/2 taza de avena
+
+- 1 cdita y 1/2 de pimentón
+
+- sal c/n
+
+- pimienta c/n
+
+
+
+#Preparación
+
+- Hacé una pasta mezclando la mostaza, el ajo, el aceite de oliva, la sal y la pimienta.
+
+- Cubrí las supremas (cortadas en pedazos si son muy grandes) con la pasta de los dos lados.
+
+- Procesá la avena con el pimentón.
+
+- Pasá las supremas por la mezcla de avena.
+
+- Cociná a horno medio hasta que estén bien doradas (las podés hacer fritas si preferís).
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_sdxjbpoIQ")
+```

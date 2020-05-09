@@ -5,10 +5,28 @@
     <link>/tags/vegetariano/</link>
     <description>Recent content in vegetariano on La cocina de Mel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Apr 2020 08:49:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 18:31:32 +0000</lastBuildDate>
     
 	<atom:link href="/tags/vegetariano/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Puré de verduras</title>
+      <link>/blog/pure-de-verduras/</link>
+      <pubDate>Sat, 09 May 2020 18:31:32 +0000</pubDate>
+      
+      <guid>/blog/pure-de-verduras/</guid>
+      <description>Se puede hacer puré con casi cualquier verdura, así que empezá a probar que quedan riquísimos.</description>
+    </item>
+    
+    <item>
+      <title>Crocantes de queso</title>
+      <link>/blog/crocantes-de-queso/</link>
+      <pubDate>Sat, 09 May 2020 18:31:31 +0000</pubDate>
+      
+      <guid>/blog/crocantes-de-queso/</guid>
+      <description>A quién no le gusta el queso?</description>
+    </item>
     
     <item>
       <title>Coliflor tikka masala</title>

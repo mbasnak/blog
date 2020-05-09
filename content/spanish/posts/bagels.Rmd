@@ -1,0 +1,65 @@
+---
+title: "Bagels"
+date: "`r Sys.time()`"
+image: images/blog/bagels.png
+
+---
+
+Esta receta es para hacer 6 riquísimos bagels!
+
+#Ingredientes
+
+- 375 gr harina
+
+- 2 cditas de azúcar
+
+- 1 cdita sal
+
+- 200 cc agua tibia
+
+- 1 cdita y 1/2 de levadura en polvo
+
+- 1 cda de aceite
+
+- 1 huevo
+
+- semillas c/n
+
+
+
+#Preparación
+
+- Mezclá la harina con el azúcar y la sal.
+
+- En otro bowl, mezclá el agua tibia con la levadura en polvo y esperá a que se forme una espuma.
+
+- Volcá la espuma sobre la preparación seca, y mezclá bien.
+
+- Agregale 1 cda de aceite y amasá bien hasta que quede un bollo homogéneo y suave.
+
+- Dejá levar por dos horas en un lugar cubierto.
+
+- Dividí la masa en 6, dales forma de bollo y aplastalo un poquito.
+
+- Cubrilos y dejá levar 20 min más.
+
+- Con una tapita (o cortante si tenés) apretá bien la masa en el medio para formar el agujero característico.
+
+- Poné a calentar agua en una olla y cuando esté cerca de hervir, bajá el fuego.
+
+- Cocinalos de a uno por unos 30-40 seg en ese agua, dándolos vuelta a la mitad.
+
+- Poné con cuidado los bagels precocidos en una fuente para horno con papel aluminio y un poquito de aceite.
+
+- Pintá con huevo y cubrí con tus semillas preferidas.
+
+- Cociná en un horno precalentado a 200 C por 18 min o hasta que tomen buen color.
+
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_vJ_XKpcbL")
+```

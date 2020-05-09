@@ -1,0 +1,57 @@
+---
+title: "Zapallo relleno con curry de lentejas"
+date: "`r Sys.time()`"
+image: images/blog/zapallo-relleno.png
+
+---
+
+
+
+#Ingredientes
+
+- 1 zapallo anco
+
+- 1 cebolla
+
+- 1 cdita curry
+
+- 1/2 taza lentejas rojas
+
+- 1/4 caldito verdura
+
+- 2 cdas salsa de tomate picante (opcional)
+
+- 2 champiñones grandes
+
+- 1 puñado de espinaca
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+- perejil y cilantro c/n
+
+
+#Preparación
+
+- Para asar el zapallo, cortalo al medio, sacale las semillas, poné las dos mitades con un poquito de sal, boca abajo en una fuente para horno aceitada, y cociná a fuego medio-alto por 1 hr.
+
+- Para hacer este relleno, salteá en aceite de oliva la cebolla picada por 3 min.
+
+- Agregale 1 cdita de curry y cociná 1 min más.
+
+- Agregale las lentejas (yo usé rojas, si usás comunes tené en cuenta que va a tardar más).
+
+- Agregale 1/4 caldito de verdura, y cubrí con agua. Yo le agregué también 2 cdas de salsa de tomate picante. Cociná 5 min.
+
+- Agregá 2 champiñones grandes fileteados, un puñado de espinaca y cociná hasta que las lentejas estén listas (si son las rojas en unos 20 min más están).
+
+- Cuando el zapallo esté blando, sacale un poco de la pulpa, mezclala con el relleno, rellená el zapallo y agregale perejil y cilantro picados por encima. 
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_0AtyOpJmd")
+```

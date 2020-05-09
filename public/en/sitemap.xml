@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/blog/banana-ice-cream/</loc>
-    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/en/</loc>
-    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
+    <lastmod>2020-05-09T18:31:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -24,7 +19,7 @@
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
+    <lastmod>2020-05-09T18:31:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -35,6 +30,96 @@
                 hreflang="en"
                 href="/en/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2020-05-09T18:31:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/vegetarian/</loc>
+    <lastmod>2020-05-09T18:31:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/veggie-mash/</loc>
+    <lastmod>2020-05-09T18:31:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/cheese-crisps/</loc>
+    <lastmod>2020-05-09T18:31:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/keto/</loc>
+    <lastmod>2020-05-09T18:31:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/keto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/keto/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/chicken-meatballs/</loc>
+    <lastmod>2020-05-09T18:25:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/veggie-tartelets/</loc>
+    <lastmod>2020-05-09T17:50:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/stuffed-butternut-squash/</loc>
+    <lastmod>2020-05-09T17:18:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/coconut-chocolates/</loc>
+    <lastmod>2020-05-09T11:14:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/bagels/</loc>
+    <lastmod>2020-05-09T10:58:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/bagels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/bagels/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/crispy-chicken/</loc>
+    <lastmod>2020-05-09T10:38:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/banana-ice-cream/</loc>
+    <lastmod>2020-05-02T19:04:03+00:00</lastmod>
   </url>
   
   <url>
@@ -78,27 +163,7 @@
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2020-04-30T08:49:51+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/vegan/</loc>
-    <lastmod>2020-04-30T08:49:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/vegetarian/</loc>
     <lastmod>2020-04-30T08:49:51+00:00</lastmod>
   </url>
   
@@ -160,21 +225,6 @@
   <url>
     <loc>/en/blog/lemon-tartelets/</loc>
     <lastmod>2020-04-13T18:32:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/keto/</loc>
-    <lastmod>2020-04-12T13:15:37+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/keto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/keto/"
-                />
   </url>
   
   <url>

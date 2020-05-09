@@ -1,0 +1,64 @@
+---
+title: "Bagels"
+date: "`r Sys.time()`"
+image: images/blog/bagels.png
+
+---
+
+This recipe yields 6 delicious bagels!
+
+#Ingredients
+
+- 375 gr all purpose flour
+
+- 2 tsp sugar
+
+- 1 tsp salt
+
+- 200 cc warm water
+
+- 1 and 1/2 tsp active dry yeast
+
+- 1 tbsp vegetable oil
+
+- 1 egg
+
+- toppings to taste
+
+
+
+#Directions
+
+- Mix the flour with the sugar and salt.
+
+- In another bowl, mix the warm water with the yeast and wait until it foams.
+
+- Pour the foam on the dry mix and combine.
+
+- Add the oil and knead until you get a soft and homogeneous dough.
+
+- Cover it and let it rise for 2 h.
+
+- Divide the dough in 6 parts, shape them as rolls and make them a little flat.
+
+- Cover them and let them rise for an extra 20 min.
+
+- With a cap (or a cutting tool if you have one), press the rolls in the middle to form the hole.
+
+- Heat water in a pot and when it's close to boiling, lower the heat.
+
+- Cook the bagels 1 at a time por about 30 or 40 sec in the water, flipping them half way through.
+
+- Carefully place the pre-cooked bagels in an oven dish with aluminum foil and some oil.
+
+- Paint them with the egg and cover with your favorite toppings.
+
+- Cook in a preheated oven at 430 F for 18 min or until they're golden.
+
+
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_vJ_XKpcbL")

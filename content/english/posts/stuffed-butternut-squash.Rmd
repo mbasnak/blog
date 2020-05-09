@@ -1,0 +1,57 @@
+---
+title: "Stuffed butternut squash"
+date: "`r Sys.time()`"
+image: images/blog/zapallo-relleno.png
+
+---
+
+
+
+#Ingredients
+
+- 1 butternut squash
+
+- 1 onion
+
+- 1 tsp curry
+
+- 1/2 cup red lentils
+
+- 1/4 vegetable bouillon cube
+
+- 2 tbsp spicy tomato sauce
+
+- 2 big cremini mushrooms
+
+- 1 handfull spinach
+
+- salt to taste
+
+- pepper to taste
+
+- olive oil to taste
+
+- parsley and cilantro to taste
+
+
+#Directions
+
+- To roast the squash, cut it in two, remove the seeds, place both halves with some salt face down on an oven dish with some olive oil, and cook at medium-high heat for about 1 h.
+
+- To make this curried lentils filling, saute 1 chopped onion in olive oil for about 3 min.
+
+- Add 1 tsp curry and cook 1 more min.
+
+- Add the lentils.
+
+- Add the bouillon cube and the spicy tomato sauce and cover with water. Cook for 5 min.
+
+- Add the sliced mushrooms and the spinach and cook until the lentils are done.
+
+- When the squash is soft, remove some of the pulp, mix it with the filling, stuff the squash and add chopped parsley and cilantro. 
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_PostEnding.md")
+ 
+blogdown::shortcode("instagram", "B_0AtyOpJmd")
+```

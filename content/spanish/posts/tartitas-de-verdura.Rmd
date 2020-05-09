@@ -1,0 +1,76 @@
+---
+title: "Tartitas de verdura"
+date: "`r Sys.time()`"
+image: images/blog/tartitas-de-verdura.png
+
+---
+
+
+#Ingredientes
+
+##Para la masa
+
+- 2 tazas de harina
+
+- 1 cdita de sal
+
+- 2 cditas de tomillo
+
+- 1/2 taza de agua
+
+- 1/2 taza de aceite neutro
+
+## Para el relleno
+
+- 1 cebolla
+
+- 1 morrón rojo
+
+- 1/2 cabeza chica de brócoli
+
+- 1 zucchini
+
+- 2 champiñones grandes
+
+- 2 puñados de muzzarella rallada
+
+- sal c/n
+
+- pimienta c/n
+
+- aceite de oliva c/n
+
+## Para el ligue
+
+- 3 huevos
+
+- 2 cdas de crema de leche
+
+- sal c/n
+
+- pimienta c/n
+
+
+#Preparación
+
+- Para la masa, mezclá todos los ingredientes.
+
+- Amasala hasta que quede un bollo homogéneo y dejala a un costado de momento.
+
+- Para el relleno, cortá la cebolla y el morrón rojo y salteá en aceite de oliva unos min.
+
+- Agregá le brócoli cortado en pedacitos y cociná unos min más.
+
+- Agregá el zucchini cortado y los champiñones fileteados. Condimentá con sal y pimienta y cociná hasta que el brócoli esté hecho.
+
+- Estirá la masa. Podés hacer una tarta individual grande, o 4 tartas chicas. Yo no tenía tartera chica así que hice una forma que contenga el relleno a mano.
+
+- Rellená las tartitas con la verdura, agregá la muzzarella rallada y unas cucharadas de ligue.
+
+- Cociná a fuego medio por unos 30 min.
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_2vaPLJAR4")
+```

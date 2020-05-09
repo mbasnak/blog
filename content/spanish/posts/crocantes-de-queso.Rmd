@@ -1,0 +1,28 @@
+---
+title: "Crocantes de queso"
+date: "`r Sys.time()`"
+image: images/blog/crocante-de-queso.png
+tags: ["vegetariano","keto"]
+---
+
+A quién no le gusta el queso?? Esta receta es puro queso y facilísima si querés un snack differente!
+
+#Ingredientes
+
+- Tu queso preferido (yo usé muzzarella), rallado
+
+- Agregados como semillas, pedacitos de jamón, pedacitos de cebolla salteada,...
+
+
+#Preparación
+
+- Hacé montañitas de tu queso rallado preferido (yo acá usé muzzarella) sobre una placa para horno con papel manteca (o aluminio con un poquito de aceite) y cociná a horno medio unos 6-7 min.
+
+- Antes de cocinarlos, les podés agregar semillas, jamón o alguna otra cosa que te apetezca y tenés unos crocantes de queso para comer de snack. 
+
+
+```{r, echo = FALSE}
+htmltools::includeMarkdown("UNPUBLISHED_FinalDePost.md")
+ 
+blogdown::shortcode("instagram", "B_5MtqIpfoh")
+```
