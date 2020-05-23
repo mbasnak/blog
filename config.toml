@@ -169,31 +169,26 @@ socialTitle = "SEGUIME <span>EN IG</span>"
 #content = "rest@gmail.com - rest@mail.ru"
 
 ######################### footer gallery
-[[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+#[[params.footer.gallery]]
+#image = "images/slider/slider-img-1.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+#[[params.footer.gallery]]
+#image = "images/slider/slider-img-2.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+#[[params.footer.gallery]]
+#image = "images/slider/slider-img-3.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
+#[[params.footer.gallery]]
+#image = "images/slider/slider-img-4.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
 
 ######################## Social Icon 
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://www.instagram.com/mel_cocina/" #poner mi link cuando lo tenga
+link = "https://www.instagram.com/mel_cocina/" 
 
 [[languages.en.params.footer.socialLink]]
 icon = "instagram"
-link = "https://www.instagram.com/mel_cocina/" #poner mi link cuando lo tenga
+link = "https://www.instagram.com/mel_cocina/" 
 
